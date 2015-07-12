@@ -93,6 +93,7 @@ exports.videoid = function(req, res) {
       var result = {
         id: artist[0].id,
         name: artist[0].name,
+        image: artist[0].image,
         videoId: videoId,
         track: trackName
       }

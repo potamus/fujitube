@@ -1,33 +1,55 @@
-<nav>
-  <div class="nav-wrapper">
-    <a href="#" class="brand-logo">Logo</a>
-    <ul id="nav-mobile" class="right hide-on-med-and-down">
-      <li><a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a></li>
-    </ul>
-  </div>
-</nav>
+<div class="navbar-fixed">
+  <nav ng-show="MainCtrl.showNavbar">
+    <div class="nav-wrapper teal darken-4">
+      <a href="#" class="brand-logo">Fujitube</a>
+      <a href="" class="waves-effect waves-circle waves-light secondary-content" ng-click="MainCtrl.play()">
+        <i class="material-icons">play_circle_outline</i>
+      </a>
+      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openAboutModal()">
+        <i class="material-icons">info_outline</i>
+      </a>
+      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openPlayListModal()">
+        <i class="material-icons">list</i>
+      </a>
+    </div>
+  </nav>
+  <nav ng-hide="MainCtrl.showNavbar">
+    <div class="nav-wrapper teal darken-4">
+      Now Playing:
+      <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!MainCtrl.que[0].image">
+      <img ng-src="{{MainCtrl.que[0].image}}" alt="" class="circle responsive-img" ng-if="MainCtrl.que[0].image">
+      <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(MainCtrl.que[0].id)" >{{MainCtrl.que[0].name}}</a>
+      <span ng-show="MainCtrl.que[0].track">- {{MainCtrl.que[0].track}}</span>
 
+      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.next()">
+        <i class="material-icons">skip_next</i>
+      </a>
+      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openPlayListModal()">
+        <i class="material-icons">list</i>
+      </a>
+    </div>
+  </nav>
+</div>
 
 <div>
+  <div ng-show="MainCtrl.showYTplayer">
+      <youtube-video player-width="'100%'" player-height="'500px'" video-url="MainCtrl.videoUrl" player="YTPlayer"></youtube-video>
+  </div>
   <div class="row container">
-    <div class="video-container no-controls">
-      <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0;autohide=1" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <div class="button_date_fillter">
-      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.play()">24</a>
+    <div class="button-date-fillter">
+      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(1)">24</a>
       <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(2)">25</a>
       <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(3)">26</a>
     <div>
-    <div class="button_stage_fillter">
+    <div class="button-stage-fillter">
       <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(1)">Green</a>
       <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(2)">White</a>
       <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(3)">Red</a>
       <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(4)">Heaven</a>
     <div>
 
-    <div class="card_artist_info">
-      <div class="col s4" ng-repeat="artist in MainCtrl.artists | artist: MainCtrl.filterDate:MainCtrl.filterStage | orderBy: ['stage_id', '-order', 'day']">
+    <div class="card-artist-info">
+      <div class="col s4" ng-repeat="artist in MainCtrl.artists | artist: MainCtrl.filterDate:MainCtrl.filterStage | orderBy: ['-stage-id', '-order', 'day']">
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s3">
@@ -50,18 +72,65 @@
     </div>
 
   </div>
-   <!-- Modal Structure -->
-   <div id="modal1" class="modal bottom-sheet">
+   <!-- DetailModal -->
+   <div id="modal-detail" class="modal bottom-sheet">
      <div class="modal-content">
-      <h4>{{MainCtrl.currentName}}</h4>
+       <div class="container">
+        <h4>{{MainCtrl.currentName}}</h4>
+        <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.addArtist(MainCtrl.currentId, MainCtrl.currentName, MainCtrl.currentImage)">
+          <i class="material-icons">add</i>
+        </a>
+      </div>
       <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!MainCtrl.currentImage">
       <img ng-src="{{MainCtrl.currentImage}}" alt="" class="circle responsive-img" ng-if="MainCtrl.currentImage">
       <p ng-bind-html="MainCtrl.currentInfo"></p>
-      <div class="modal_similar_artists" ng-repeat="artist in MainCtrl.currentSimilarArtists">
+      <div class="modal-similar-artists" ng-repeat="artist in MainCtrl.currentSimilarArtists">
         <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
       </div>
      </div>
-     <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat" ng-click="MainCtrl.removeArtist(MainCtrl.currentId)">Remove</a>
+     <div class="modal-footer">
+       <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+     </div>
+   </div>
+
+   <!-- AboutModal -->
+   <div id="modal-about" class="modal">
+     <div class="modal-content">
+      <h4>About</h4>
+      <p>2015年のFUJI ROCK FESTIVALに出演するアーティストの動画視聴サイトです。</p>
+      <p>日程、ステージでアーティストを絞り込み、視聴したいアーティストをプレイリストに追加していきます。</p>
+      <p>画面上の再生ボタンを押すと、追加したアーティストの中からランダムで動画が連続再生されます。</p>
+      <p>現在のプレイリストは右上のボタンから確認できます。</p>
+      <p>それでは、よいFUJI ROCKをお過ごしください。</p>
+      <div class="modal-footer">
+       <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+      </div>
+    </div>
+   </div>
+
+   <!-- PlaylistModal -->
+   <div id="modal-playlist" class="modal bottom-sheet">
+     <div class="modal-content">
+      <h4>PlayList</h4>
+      <table>
+        <tbody>
+          <tr ng-repeat="artist in MainCtrl.playArtistList">
+            <td>
+              <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
+              <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
+            </td>
+            <td>
+              <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
+            </td>
+            <td>
+              <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.removeArtist(artist.id)">
+                <i class="material-icons">not_interested</i>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+     </div>
      <div class="modal-footer">
        <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
      </div>
@@ -70,8 +139,6 @@
 
 <footer class="footer">
   <div class="container">
-      <p>Angular Fullstack v2.0.13 |
-        <a href="https://twitter.com/tyhenkel">@tyhenkel</a> |
-         <a href="https://github.com/DaftMonk/generator-angular-fullstack/issues?state=open">Issues</a></p>
+      <p>Fujitube</p>
   </div>
 </footer>

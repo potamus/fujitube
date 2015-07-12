@@ -4,7 +4,8 @@ angular.module('FujitubeApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
-  'ngRoute'
+  'ngRoute',
+  'youtube-embed'
 ])
   .config(function ($routeProvider, $locationProvider) {
     $routeProvider

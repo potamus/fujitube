@@ -1,15 +1,22 @@
 'use strict';
 
 angular.module('FujitubeApp')
-  .controller('MainCtrl', function ($scope, $http) {
+  .controller('MainCtrl', function ($scope, $http, $timeout) {
     var vm = this;
     vm.toggleFilterDate = toggleFilterDate;
     vm.toggleFilterStage = toggleFilterStage;
+
     vm.openModal = openModal;
+    vm.openAboutModal = openAboutModal;
+    vm.openPlayListModal = openPlayListModal;
+
     vm.play = play;
+    vm.next = next;
     vm.addArtist = addArtist;
     vm.removeArtist = removeArtist;
+
     vm.showYTplayer = false;
+    vm.showNavbar = true;
 
     vm.filterDate = [];
     vm.filterStage = [];
@@ -21,6 +28,7 @@ angular.module('FujitubeApp')
     vm.currentInfo = '表示できません';
     vm.currnetTopTracks = [];
     vm.currentSimilarArtists = [];
+    var YTPlayer;
 
     $http.get('/api/artists').success(function(artists) {
       vm.artists = artists;
@@ -38,6 +46,18 @@ angular.module('FujitubeApp')
       return vm.playArtistList.length;
     }, function() {
         adjustQue();
+    });
+
+    $scope.$on('youtube.player.ready', function ($event, player) {
+      YTPlayer = $scope.YTPlayer;
+      player.playVideo();
+      vm.showNavbar = false;
+    });
+
+    $scope.$on('youtube.player.ended', function($event, player){
+      vm.que.splice(0,1);
+      vm.videoUrl = vm.que[0].videoId;
+      player.playVideo();
     });
 
     function adjustQue(){
@@ -77,7 +97,19 @@ angular.module('FujitubeApp')
     function play(){
       loadVideoID();
       vm.showYTplayer = true;
+      if(vm.que.length === 0){
+        $timeout(function () {
+          vm.videoUrl = vm.que[0].videoId;
+        }, 1000);
+      } else {
+        vm.videoUrl = vm.que[0].videoId;
+      }
+    }
 
+    function next(player){
+      vm.que.splice(0,1);
+      vm.videoUrl = vm.que[0].videoId;
+      YTPlayer.playVideo();
     }
 
     function addArtist(id, name, image){
@@ -111,7 +143,8 @@ angular.module('FujitubeApp')
     }
 
     function openModal(id){
-      $('#modal1').closeModal();
+      $('#modal-detail').closeModal();
+      $('#modal-playlist').closeModal();
       $http.get('/api/artists/' + id).success(function(artist) {
         vm.currentId        = artist.id;
         vm.currentName      = artist.name;
@@ -120,6 +153,15 @@ angular.module('FujitubeApp')
         vm.currnetTopTracks = artist.top_tracks;
         vm.currentSimilarArtists = artist.similar_artists
       });
-      $('#modal1').openModal();
+      $('#modal-detail').openModal();
     }
+
+    function openPlayListModal(){
+      $('#modal-playlist').openModal();
+    }
+
+    function openAboutModal(){
+      $('#modal-about').openModal();
+    }
+
   });
