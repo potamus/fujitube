@@ -113,7 +113,14 @@ angular.module('FujitubeApp')
     }
 
     function addArtist(id, name, image){
-      vm.playArtistList.push({id: id, name: name, image: image});
+      var artistList = [];
+      angular.forEach(vm.playArtistList, function(v){
+        artistList.push(v.id);
+      });
+      if(artistList.indexOf(id) === -1){
+        vm.playArtistList.push({id: id, name: name, image: image});
+      }
+      Materialize.toast(name , 5000, 'rounded');
     }
 
     function removeArtist(id){

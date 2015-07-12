@@ -112,24 +112,16 @@
    <div id="modal-playlist" class="modal bottom-sheet">
      <div class="modal-content">
       <h4>PlayList</h4>
-      <table>
-        <tbody>
-          <tr ng-repeat="artist in MainCtrl.playArtistList">
-            <td>
-              <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
-              <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
-            </td>
-            <td>
-              <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
-            </td>
-            <td>
-              <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.removeArtist(artist.id)">
-                <i class="material-icons">not_interested</i>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+      <ul class="collection">
+        <li class="collection-item avatar" ng-repeat="artist in MainCtrl.playArtistList">
+          <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
+          <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
+          <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
+          <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.removeArtist(artist.id)">
+            <i class="material-icons">not_interested</i>
+          </a>
+        </li>
+      </ul>
      </div>
      <div class="modal-footer">
        <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
