@@ -1,0 +1,77 @@
+<nav>
+  <div class="nav-wrapper">
+    <a href="#" class="brand-logo">Logo</a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <li><a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<div>
+  <div class="row container">
+    <div class="video-container no-controls">
+      <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0;autohide=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="button_date_fillter">
+      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.play()">24</a>
+      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(2)">25</a>
+      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(3)">26</a>
+    <div>
+    <div class="button_stage_fillter">
+      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(1)">Green</a>
+      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(2)">White</a>
+      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(3)">Red</a>
+      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(4)">Heaven</a>
+    <div>
+
+    <div class="card_artist_info">
+      <div class="col s4" ng-repeat="artist in MainCtrl.artists | artist: MainCtrl.filterDate:MainCtrl.filterStage | orderBy: ['stage_id', '-order', 'day']">
+        <div class="card-panel grey lighten-5 z-depth-1">
+          <div class="row valign-wrapper">
+            <div class="col s3">
+              <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
+              <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
+            </div>
+            <div class="col s6">
+              <span class="black-text">
+                <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)">{{artist.name}}</a>
+              </span>
+            </div>
+            <div class="col s3">
+              <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.addArtist(artist.id, artist.name, artist.image)">
+                <i class="material-icons">add</i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+   <!-- Modal Structure -->
+   <div id="modal1" class="modal bottom-sheet">
+     <div class="modal-content">
+      <h4>{{MainCtrl.currentName}}</h4>
+      <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!MainCtrl.currentImage">
+      <img ng-src="{{MainCtrl.currentImage}}" alt="" class="circle responsive-img" ng-if="MainCtrl.currentImage">
+      <p ng-bind-html="MainCtrl.currentInfo"></p>
+      <div class="modal_similar_artists" ng-repeat="artist in MainCtrl.currentSimilarArtists">
+        <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
+      </div>
+     </div>
+     <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat" ng-click="MainCtrl.removeArtist(MainCtrl.currentId)">Remove</a>
+     <div class="modal-footer">
+       <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+     </div>
+   </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+      <p>Angular Fullstack v2.0.13 |
+        <a href="https://twitter.com/tyhenkel">@tyhenkel</a> |
+         <a href="https://github.com/DaftMonk/generator-angular-fullstack/issues?state=open">Issues</a></p>
+  </div>
+</footer>
