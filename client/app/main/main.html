@@ -2,29 +2,29 @@
   <nav ng-show="MainCtrl.showNavbar">
     <div class="nav-wrapper teal darken-4">
       <a href="#" class="brand-logo">Fujitube</a>
-      <a href="" class="waves-effect waves-circle waves-light secondary-content" ng-click="MainCtrl.play()">
+      <a href="" class="nav-play" ng-click="MainCtrl.play()">
         <i class="material-icons">play_circle_outline</i>
       </a>
-      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openAboutModal()">
+      <a href="" class="nav-info" ng-click="MainCtrl.openAboutModal()">
         <i class="material-icons">info_outline</i>
       </a>
-      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openPlayListModal()">
+      <a href="" class="nav-list" ng-click="MainCtrl.openPlayListModal()">
         <i class="material-icons">list</i>
       </a>
     </div>
   </nav>
   <nav ng-hide="MainCtrl.showNavbar">
     <div class="nav-wrapper teal darken-4">
-      Now Playing:
-      <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!MainCtrl.que[0].image">
-      <img ng-src="{{MainCtrl.que[0].image}}" alt="" class="circle responsive-img" ng-if="MainCtrl.que[0].image">
-      <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(MainCtrl.que[0].id)" >{{MainCtrl.que[0].name}}</a>
-      <span ng-show="MainCtrl.que[0].track">- {{MainCtrl.que[0].track}}</span>
-
-      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.next()">
+      <div class="nav-playing">
+        <img src="../../assets/images/yeoman.png" alt="" class="circle" ng-if="!MainCtrl.playingImage">
+        <img ng-src="{{MainCtrl.playingImage}}" alt="" class="circle" ng-if="MainCtrl.playingImage">
+        <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(MainCtrl.playingId)" >{{MainCtrl.playingName}}  </a>
+        <span ng-show="MainCtrl.playingTrack">  -  {{MainCtrl.playingTrack}}</span>
+      </div>
+      <a href="" class="nav-info" ng-click="MainCtrl.next()">
         <i class="material-icons">skip_next</i>
       </a>
-      <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.openPlayListModal()">
+      <a href="" class="nav-list" ng-click="MainCtrl.openPlayListModal()">
         <i class="material-icons">list</i>
       </a>
     </div>
@@ -37,32 +37,32 @@
   </div>
   <div class="row container">
     <div class="button-date-fillter">
-      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(1)">24</a>
-      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(2)">25</a>
-      <a class="col s4 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterDate(3)">26</a>
-    <div>
+      <a class="col s6 m4 waves-effect waves-light btn-large" ng-class="!MainCtrl.check24 ? 'grey darken-1' : 'orange'" ng-click="MainCtrl.toggleFilterDate(1)">24</a>
+      <a class="col s6 m4 waves-effect waves-light btn-large" ng-class="!MainCtrl.check25 ? 'grey darken-1' : 'orange'" ng-click="MainCtrl.toggleFilterDate(2)">25</a>
+      <a class="col s12 m4 waves-effect waves-light btn-large" ng-class="!MainCtrl.check26 ? 'grey darken-1' : 'orange'" ng-click="MainCtrl.toggleFilterDate(3)">26</a>
+    </div>
     <div class="button-stage-fillter">
-      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(1)">Green</a>
-      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(2)">White</a>
-      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(3)">Red</a>
-      <a class="col s3 waves-effect waves-light btn-large" ng-click="MainCtrl.toggleFilterStage(4)">Heaven</a>
-    <div>
+      <a class="col s6 m3 waves-effect waves-light btn-large" ng-class="!MainCtrl.checkGreen ? 'grey darken-1' : 'green darken-4'" ng-click="MainCtrl.toggleFilterStage(1)">Green</a>
+      <a class="col s6 m3 waves-effect waves-light btn-large" ng-class="!MainCtrl.checkWhite ? 'grey darken-1' : 'grey lighten-1'" ng-click="MainCtrl.toggleFilterStage(2)">White</a>
+      <a class="col s6 m3 waves-effect waves-light btn-large" ng-class="!MainCtrl.checkRed ? 'grey darken-1' : 'red accent-4'" ng-click="MainCtrl.toggleFilterStage(3)">Red</a>
+      <a class="col s6 m3 waves-effect waves-light btn-large" ng-class="!MainCtrl.checkHeaven ? 'grey darken-1' : 'blue darken-4'" ng-click="MainCtrl.toggleFilterStage(4)">Heaven</a>
+    </div>
 
     <div class="card-artist-info">
-      <div class="col s4" ng-repeat="artist in MainCtrl.artists | artist: MainCtrl.filterDate:MainCtrl.filterStage | orderBy: ['-stage-id', '-order', 'day']">
+      <div class="col s12 m4" ng-repeat="artist in MainCtrl.artists | artist: MainCtrl.filterDate:MainCtrl.filterStage | orderBy: ['-stage-id', '-order', 'day']">
         <div class="card-panel grey lighten-5 z-depth-1">
-          <div class="row valign-wrapper">
-            <div class="col s3">
-              <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
-              <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
+          <div class="card-inner row valign-wrapper">
+            <div class="card-inner-img col s3">
+              <img src="../../assets/images/yeoman.png" alt="" class="circle" ng-if="!artist.image">
+              <img ng-src="{{artist.image}}" alt="" class="circle" ng-if="artist.image">
             </div>
-            <div class="col s6">
-              <span class="black-text">
-                <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)">{{artist.name}}</a>
-              </span>
+            <div class="card-name col s6">
+              <p class="black-text">
+                <a class="card-inner-name modal-trigger black-text" href="" ng-click="MainCtrl.openModal(artist.id)">{{artist.name}}</a>
+              </p>
             </div>
             <div class="col s3">
-              <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.addArtist(artist.id, artist.name, artist.image)">
+              <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content teal" ng-click="MainCtrl.addArtist(artist.id, artist.name, artist.image)">
                 <i class="material-icons">add</i>
               </a>
             </div>
@@ -70,20 +70,24 @@
         </div>
       </div>
     </div>
-
   </div>
+
    <!-- DetailModal -->
    <div id="modal-detail" class="modal bottom-sheet">
      <div class="modal-content">
-       <div class="container">
-        <h4>{{MainCtrl.currentName}}</h4>
-        <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.addArtist(MainCtrl.currentId, MainCtrl.currentName, MainCtrl.currentImage)">
-          <i class="material-icons">add</i>
-        </a>
+       <div class="row container">
+        <img src="../../assets/images/yeoman.png" alt="" class="detail-img col s12 m3 circle" ng-if="!MainCtrl.currentImage">
+        <img ng-src="{{MainCtrl.currentImage}}" alt="" class="detail-img col s12 m3 circle" ng-if="MainCtrl.currentImage">
+        <h4 class="detail-name col s7 m7">{{MainCtrl.currentName}}</h4>
+        <div class="detail-add col s2 m2">
+          <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content teal" ng-click="MainCtrl.addArtist(MainCtrl.currentId, MainCtrl.currentName, MainCtrl.currentImage)">
+            <i class="material-icons">add</i>
+          </a>
+        </div>
       </div>
-      <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!MainCtrl.currentImage">
-      <img ng-src="{{MainCtrl.currentImage}}" alt="" class="circle responsive-img" ng-if="MainCtrl.currentImage">
+      <h5>Biography</h5>
       <p ng-bind-html="MainCtrl.currentInfo"></p>
+      <h5>Similar Artists</h5>
       <div class="modal-similar-artists" ng-repeat="artist in MainCtrl.currentSimilarArtists">
         <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
       </div>
@@ -103,6 +107,7 @@
       <p>現在のプレイリストは右上のボタンから確認できます。</p>
       <p>それでは、よいFUJI ROCKをお過ごしください。</p>
       <div class="modal-footer">
+        Powered By <img src="http://cdn.last.fm/flatness/badges/lastfm_grey_small.gif"></img>
        <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
       </div>
     </div>
@@ -114,17 +119,14 @@
       <h4>PlayList</h4>
       <ul class="collection">
         <li class="collection-item avatar" ng-repeat="artist in MainCtrl.playArtistList">
-          <img src="../../assets/images/yeoman.png" alt="" class="circle responsive-img" ng-if="!artist.image">
-          <img ng-src="{{artist.image}}" alt="" class="circle responsive-img" ng-if="artist.image">
-          <a class="modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
-          <a href="" class="waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.removeArtist(artist.id)">
+          <img src="../../assets/images/yeoman.png" alt="" class="list-img circle responsive-img" ng-if="!artist.image">
+          <img ng-src="{{artist.image}}" alt="" class="list-img circle responsive-img" ng-if="artist.image">
+          <a class="list-name modal-trigger" href="" ng-click="MainCtrl.openModal(artist.id)" >{{artist.name}}</a>
+          <a href="" class="remove-button waves-effect waves-circle waves-light btn-floating secondary-content" ng-click="MainCtrl.removeArtist(artist.id)">
             <i class="material-icons">not_interested</i>
           </a>
         </li>
       </ul>
-     </div>
-     <div class="modal-footer">
-       <a href="" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
      </div>
    </div>
 </div>

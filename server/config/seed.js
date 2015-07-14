@@ -21,7 +21,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
     "image": "http://userserve-ak.last.fm/serve/126/55899103.png",
-    "info": "\n                    フー・ファイターズ（Foo Fighters）は、デイヴ・グロールを中心とするアメリカのロックバンドである。1995年にデビューする。略称は、「FF」（エフエフ）。日本における略称は、「フーファイ」。  2000年代以降の米国のロック音楽を代表する存在である。切れの良い、骨太で豪快なロックを鳴らす。グロールの力の入った情熱的なボーカルが冴える。 日本でも熱狂的なファンが多く、2005年の来日では大勢の人がライブに駆けつけた。      * デイヴ・グロール（Dave Grohl、1969年1月14日 - ）は、ボーカルとエレキギター担当。オハイオ州ウォレン出身。リーダー。元スクリーム（ワシントンDCのハードコアパンクバンド）およびニルヴァーナのドラマー。そして現在でもクイーン･オブ･ザ･ストーン・エイジやナイン・インチ・ネイルズ、キリング･ジョーク、キャットパワーなど多数の作品へドラマーとしてゲスト参加をしている。取材には絶対に遅刻をしない、どんな質問にも笑顔で答えるなど、気難しいロックミュージシャンたちの中でも珍しい”人格者”として知られている。ニルヴァーナ時代はカート・コバーンにとってやっと出会った才能あるドラマーだったのでかなり信頼されていた。\n \n\n        <a href=\"http://www.last.fm/music/Foo+Fighters\">Read more about Foo Fighters on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                フー・ファイターズ（Foo Fighters）は、デイヴ・グロールを中心とするアメリカのロックバンドである。1995年にデビューする。略称は、「FF」（エフエフ）。日本における略称は、「フーファイ」。  2000年代以降の米国のロック音楽を代表する存在である。切れの良い、骨太で豪快なロックを鳴らす。グロールの力の入った情熱的なボーカルが冴える。 日本でも熱狂的なファンが多く、2005年の来日では大勢の人がライブに駆けつけた。      * デイヴ・グロール（Dave Grohl、1969年1月14日 - ）は、ボーカルとエレキギター担当。オハイオ州ウォレン出身。リーダー。元スクリーム（ワシントンDCのハードコアパンクバンド）およびニルヴァーナのドラマー。そして現在でもクイーン･オブ･ザ･ストーン・エイジやナイン・インチ・ネイルズ、キリング･ジョーク、キャットパワーなど多数の作品へドラマーとしてゲスト参加をしている。取材には絶対に遅刻をしない、どんな質問にも笑顔で答えるなど、気難しいロックミュージシャンたちの中でも珍しい”人格者”として知られている。ニルヴァーナ時代はカート・コバーンにとってやっと出会った才能あるドラマーだったのでかなり信頼されていた。\n \n\n        <a href=\"http://www.last.fm/music/Foo+Fighters\">Read more about Foo Fighters on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Everlong",
       "Something from Nothing",
@@ -87,8 +87,8 @@ Artist.find({}).remove(function() {
       13
     ],
     "mbid": "1695c115-bf3f-4014-9966-2b0c50179193",
-    "image": "http://userserve-ak.last.fm/serve/126/416514.jpg",
-    "info": "\n                    ミューズ（Muse）は、イギリスデヴォン州のティンマスで結成されたロックバンドである。1993年結成。  デビュー当初はレディオヘッドのフォロワーと捕らえられがちだったが、次第に独自の音楽性を発揮。クイーン的とも評されるその過剰なまでに派手なアレンジと、3ピース・バンドとは思えないほどの壮大で美しく激しいサウンドから，セカンドアルバムの日本版の帯では「過剰の美学」なるコピーがつけられている。  その音楽性は総じて、ロックのダイナミズムとクラシックの荘厳さを融合したものと評されている。  楽曲が持つ独特の空気感を引き立たせるプロモーションビデオも秀逸。      * マシュー・ベラミー　(Matthew Bellamy)　- ボーカル、ギター、ピアノ　ギタリストの父と霊媒師の母の間に生まれる\n     * クリス・ウォルステンホルム　(Christopher Wolstenholme)　- ベース\n     * ドミニク・ハワード　(Dominic Howard)　- ドラム  概要  \n\n        <a href=\"http://www.last.fm/music/Muse\">Read more about Muse on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "image": "http://userserve-ak.last.fm/serve/126/35147389.jpg",
+    "info": "\n                ミューズ（Muse）は、イギリスデヴォン州のティンマスで結成されたロックバンドである。1993年結成。  デビュー当初はレディオヘッドのフォロワーと捕らえられがちだったが、次第に独自の音楽性を発揮。クイーン的とも評されるその過剰なまでに派手なアレンジと、3ピース・バンドとは思えないほどの壮大で美しく激しいサウンドから，セカンドアルバムの日本版の帯では「過剰の美学」なるコピーがつけられている。  その音楽性は総じて、ロックのダイナミズムとクラシックの荘厳さを融合したものと評されている。  楽曲が持つ独特の空気感を引き立たせるプロモーションビデオも秀逸。      * マシュー・ベラミー　(Matthew Bellamy)　- ボーカル、ギター、ピアノ　ギタリストの父と霊媒師の母の間に生まれる\n     * クリス・ウォルステンホルム　(Christopher Wolstenholme)　- ベース\n     * ドミニク・ハワード　(Dominic Howard)　- ドラム  概要  \n\n        <a href=\"http://www.last.fm/music/Muse\">Read more about Muse on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Uprising",
       "Starlight",
@@ -164,7 +164,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "",
     "image": "http://userserve-ak.last.fm/serve/126/66958160.png",
-    "info": "\n                    ノエル・ギャラガーズ・ハイ・フライング・バーズ（Noel Gallagher's High Flying Birds）は、ノエル・ギャラガー（<a href=\"http://www.last.fm/music/Noel+Gallagher\" class=\"bbcode_artist\">Noel Gallagher</a>）が立ち上げたソロ・プロジェクト。  2009年8月28日、公式ウェブサイト上でオアシス（<a href=\"http://www.last.fm/music/Oasis\" class=\"bbcode_artist\">Oasis</a>）から脱退を表明後、ソロ活動に向けて動き出す。\n 2011年7月7日に記者会見を開き、2011年10月17日に初のソロ・オリジナルアルバム『ノエル・ギャラガーズ・ハイ・フライング・バーズ（<a title=\"Noel Gallagher's High Flying Birds - Noel Gallagher's High Flying Birds\" href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/Noel+Gallagher%27s+High+Flying+Birds\" class=\"bbcode_album\">Noel Gallagher's High Flying Birds</a>）』を全英でリリースすると発表。また、翌週よりツアーを開始する。さらに2012年夏にもフューチャー・サウンド・オブ・ロンドン（<a href=\"http://www.last.fm/music/The+Future+Sound+of+London\" class=\"bbcode_artist\">The Future Sound of London</a>）とのコラボによる2枚目のソロ・アルバムをリリースする予定だと明かした。\n 2011年7月25日、1stシングル『ザ・デス・オブ・ユー・アンド・ミー（<a title=\"Noel Gallagher's High Flying Birds &ndash; The Death of You and Me\" href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/_/The+Death+of+You+and+Me\" class=\"bbcode_track\">The Death of You and Me</a>）』のMVを、自身のウェブサイトとYouTubeで公開開始。\n \n\n        <a href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds\">Read more about Noel Gallagher's High Flying Birds on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ノエル・ギャラガーズ・ハイ・フライング・バーズ（Noel Gallagher's High Flying Birds）は、ノエル・ギャラガー（<a href=\"http://www.last.fm/music/Noel+Gallagher\" class=\"bbcode_artist\">Noel Gallagher</a>）が立ち上げたソロ・プロジェクト。  2009年8月28日、公式ウェブサイト上でオアシス（<a href=\"http://www.last.fm/music/Oasis\" class=\"bbcode_artist\">Oasis</a>）から脱退を表明後、ソロ活動に向けて動き出す。\n 2011年7月7日に記者会見を開き、2011年10月17日に初のソロ・オリジナルアルバム『ノエル・ギャラガーズ・ハイ・フライング・バーズ（<a title=\"Noel Gallagher's High Flying Birds - Noel Gallagher's High Flying Birds\" href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/Noel+Gallagher%27s+High+Flying+Birds\" class=\"bbcode_album\">Noel Gallagher's High Flying Birds</a>）』を全英でリリースすると発表。また、翌週よりツアーを開始する。さらに2012年夏にもフューチャー・サウンド・オブ・ロンドン（<a href=\"http://www.last.fm/music/The+Future+Sound+of+London\" class=\"bbcode_artist\">The Future Sound of London</a>）とのコラボによる2枚目のソロ・アルバムをリリースする予定だと明かした。\n 2011年7月25日、1stシングル『ザ・デス・オブ・ユー・アンド・ミー（<a title=\"Noel Gallagher's High Flying Birds &ndash; The Death of You and Me\" href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds/_/The+Death+of+You+and+Me\" class=\"bbcode_track\">The Death of You and Me</a>）』のMVを、自身のウェブサイトとYouTubeで公開開始。\n \n\n        <a href=\"http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds\">Read more about Noel Gallagher's High Flying Birds on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Ballad of the Mighty I",
       "In the Heat of the Moment",
@@ -245,7 +245,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "316f2aab-3477-4c62-bb08-eb04dcdcc18f",
     "image": "http://userserve-ak.last.fm/serve/126/66981382.png",
-    "info": "\n                    Deadmau5とは、2006年より活動しているトロント出身のジョエル・ジマーマンによるプロジェクト。  プログレッシブ・ハウスをベースに、エレクトロを混ぜるといった独特のスタイルで一瞬にして世界中のダンスヘッズを魅了。2008年に大手ダンス系配信サイト「BEATPORT」にてもっともダウンロードされたアーティストとして話題をさらい、BEATPORT AWARDSを総なめにしたほか、I.D.M.Aなど数々のダンスミュージック賞を受賞した。さらに、手掛けたリミックスでのグラミー賞ノミネートや、バンクーバーオリンピックのメダル授賞式でのパフォーマンスなど、またたく間に世界中より注目を浴びることとなった。  音楽的にも評価されているが、その人気をより強固にしているのはそのルックスとライブパフォーマンス。ライブでの爆音サウンド、あのDAFT PUNK顔負けのピカピカ＆キラキラ光るステージ・プロダクション、そして一度見たら忘れられない「mau5ehead」と呼ばれるネズミの被りモノを装着してのパフォーマンスが人気を集めている。\n\n        <a href=\"http://www.last.fm/music/deadmau5\">Read more about deadmau5 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                Deadmau5とは、2006年より活動しているトロント出身のジョエル・ジマーマンによるプロジェクト。  プログレッシブ・ハウスをベースに、エレクトロを混ぜるといった独特のスタイルで一瞬にして世界中のダンスヘッズを魅了。2008年に大手ダンス系配信サイト「BEATPORT」にてもっともダウンロードされたアーティストとして話題をさらい、BEATPORT AWARDSを総なめにしたほか、I.D.M.Aなど数々のダンスミュージック賞を受賞した。さらに、手掛けたリミックスでのグラミー賞ノミネートや、バンクーバーオリンピックのメダル授賞式でのパフォーマンスなど、またたく間に世界中より注目を浴びることとなった。  音楽的にも評価されているが、その人気をより強固にしているのはそのルックスとライブパフォーマンス。ライブでの爆音サウンド、あのDAFT PUNK顔負けのピカピカ＆キラキラ光るステージ・プロダクション、そして一度見たら忘れられない「mau5ehead」と呼ばれるネズミの被りモノを装着してのパフォーマンスが人気を集めている。\n\n        <a href=\"http://www.last.fm/music/deadmau5\">Read more about deadmau5 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Some Chords",
       "Strobe - Radio Edit",
@@ -310,7 +310,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e",
     "image": "http://userserve-ak.last.fm/serve/126/82840549.png",
-    "info": "\n                    バンドはイギリスOxfordにて1988年に結成され、公式には1996年に解散している。この間、批評家からの評価を得たものの、狙っていた経済的な成功ではなく、チャートに入るようなことも少なかった。減少していくシューゲイザーバンドたちの運命に抗うかのように、少しの間は自分たちの力を証明したが、その後、バンドメンバーはそれぞれのプロジェクトへと向かっていった。\n - Andy Bell：Hurricane #1を結成した後、Oasisにベーシストとして参加。\n - Mark Gardener：The Animalhouseとしてアルバムを発表。その後Goldrushとツアーを回り、ソロアルバム『These Beautiful Ghosts』を発表。\n 2001年、テレビの特番ドキュメンタリーに参加したが、これは彼らのアルバムとライブレコーディング、アウトテイク集が再リリースされることに伴ったものであった。  1988～89年　スタート：\n \n\n        <a href=\"http://www.last.fm/music/Ride\">Read more about Ride on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                バンドはイギリスOxfordにて1988年に結成され、公式には1996年に解散している。この間、批評家からの評価を得たものの、狙っていた経済的な成功ではなく、チャートに入るようなことも少なかった。減少していくシューゲイザーバンドたちの運命に抗うかのように、少しの間は自分たちの力を証明したが、その後、バンドメンバーはそれぞれのプロジェクトへと向かっていった。\n - Andy Bell：Hurricane #1を結成した後、Oasisにベーシストとして参加。\n - Mark Gardener：The Animalhouseとしてアルバムを発表。その後Goldrushとツアーを回り、ソロアルバム『These Beautiful Ghosts』を発表。\n 2001年、テレビの特番ドキュメンタリーに参加したが、これは彼らのアルバムとライブレコーディング、アウトテイク集が再リリースされることに伴ったものであった。  1988～89年　スタート：\n \n\n        <a href=\"http://www.last.fm/music/Ride\">Read more about Ride on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Vapour Trail",
       "Seagull",
@@ -375,7 +375,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "6ef00829-fa94-4fee-a5a6-b28e1208e96a",
     "image": "http://userserve-ak.last.fm/serve/126/87307975.png",
-    "info": "\n                    ONE OK ROCK（ワン オク ロック）は、Taka・Toru・Ryota・Tomoyaの4人で構成される日本のロックバンド。  メンバー　\n * Taka  (1988年4月17日　出身：東京)　Vocal\n * Toru   (1988年12月7日　出身：大阪)　Vocal&amp;Guitar\n * Ryota  (1989年9月4日　出身：大阪)　Bass\n * Tomoya  (1987年6月27日　出身：兵庫)　Drums  元メンバー\n * Alex  (Guitar)  作品\n  【CD】\n \n * ONE OK ROCK　(2006年7月26日）\n * Keep it real　(2006年12月16日）  \n * 内秘心書　(2007年4月25日）\n * 努努ーゆめゆめー　(2007年7月25日）\n * エトセトラ　(2007年10月24日)\n * アンサイズニア　(2011年2月16日)\n * Re:make / NO SCARED (2011年7月20日)\n * The Beginning(2012年8月22日)\n \n\n        <a href=\"http://www.last.fm/music/ONE+OK+ROCK\">Read more about ONE OK ROCK on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ONE OK ROCK（ワン オク ロック）は、Taka・Toru・Ryota・Tomoyaの4人で構成される日本のロックバンド。  メンバー　\n * Taka  (1988年4月17日　出身：東京)　Vocal\n * Toru   (1988年12月7日　出身：大阪)　Vocal&amp;Guitar\n * Ryota  (1989年9月4日　出身：大阪)　Bass\n * Tomoya  (1987年6月27日　出身：兵庫)　Drums  元メンバー\n * Alex  (Guitar)  作品\n  【CD】\n \n * ONE OK ROCK　(2006年7月26日）\n * Keep it real　(2006年12月16日）  \n * 内秘心書　(2007年4月25日）\n * 努努ーゆめゆめー　(2007年7月25日）\n * エトセトラ　(2007年10月24日)\n * アンサイズニア　(2011年2月16日)\n * Re:make / NO SCARED (2011年7月20日)\n * The Beginning(2012年8月22日)\n \n\n        <a href=\"http://www.last.fm/music/ONE+OK+ROCK\">Read more about ONE OK ROCK on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "The Beginning",
       "Re:make",
@@ -450,7 +450,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf",
     "image": "http://userserve-ak.last.fm/serve/126/104142763.png",
-    "info": "\n                    埼玉県出身。俳優でありミュージシャンでもある。4人編成のインストバンド「SAKEROCK」のメンバー(ギター、マリンバと時々うた担当)俳優としては大人計画所属。\n\n        <a href=\"http://www.last.fm/music/%E6%98%9F%E9%87%8E%E6%BA%90\">星野源 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                埼玉県出身。俳優でありミュージシャンでもある。4人編成のインストバンド「SAKEROCK」のメンバー(ギター、マリンバと時々うた担当)俳優としては大人計画所属。\n\n        <a href=\"http://www.last.fm/music/%E6%98%9F%E9%87%8E%E6%BA%90\">星野源 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "夢の外へ",
       "化物",
@@ -520,7 +520,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "9e414497-23b7-4ab7-9ec6-8ea9864c9e87",
     "image": "http://userserve-ak.last.fm/serve/126/101932737.png",
-    "info": "\n                    椎名林檎(しいなりんご)\n 1978年11月25日生まれ。O型。\n 日本のバンド・<a href=\"http://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89\" class=\"bbcode_artist\">東京事変</a>のボーカリスト兼ギタリスト。  　1995年、ヤマハ「第9回 TEENS' MUSIC FESTIVAL」にバンドで全国大会に出場し、奨励賞を受賞。\n 　1996年、ヤマハ「The 5th MUSIC QUEST JAPAN FINAL」に『椎名林檎』として出場し、「ここでキスして。」で優秀賞を獲得。。地方予選の段階からいくつかのレーベルから声がかかり、その中から東芝EMI（現EMIミュージック・ジャパン）と契約。1998年、シングル「幸福論」でデビュー。\n 　9月発売のシングル「歌舞伎町の女王」で徐々に話題になる。  　1999年1月、シングル「ここでキスして。」がヒット。同年2月に発売されたアルバム『無罪モラトリアム』は、先行シングルのヒットを受けてミリオンヒットした。\n 　その後も1999年10月発売の4枚目のシングル「本能」がミリオン、2000年3月に発売された2作目のアルバム『勝訴ストリップ』はオリコンで230万枚を記録した。  \n\n        <a href=\"http://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E\">Read more about 椎名林檎 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                椎名林檎(しいなりんご)\n 1978年11月25日生まれ。O型。\n 日本のバンド・<a href=\"http://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89\" class=\"bbcode_artist\">東京事変</a>のボーカリスト兼ギタリスト。  　1995年、ヤマハ「第9回 TEENS' MUSIC FESTIVAL」にバンドで全国大会に出場し、奨励賞を受賞。\n 　1996年、ヤマハ「The 5th MUSIC QUEST JAPAN FINAL」に『椎名林檎』として出場し、「ここでキスして。」で優秀賞を獲得。。地方予選の段階からいくつかのレーベルから声がかかり、その中から東芝EMI（現EMIミュージック・ジャパン）と契約。1998年、シングル「幸福論」でデビュー。\n 　9月発売のシングル「歌舞伎町の女王」で徐々に話題になる。  　1999年1月、シングル「ここでキスして。」がヒット。同年2月に発売されたアルバム『無罪モラトリアム』は、先行シングルのヒットを受けてミリオンヒットした。\n 　その後も1999年10月発売の4枚目のシングル「本能」がミリオン、2000年3月に発売された2作目のアルバム『勝訴ストリップ』はオリコンで230万枚を記録した。  \n\n        <a href=\"http://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E\">Read more about 椎名林檎 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "NIPPON",
       "ありあまる富",
@@ -585,7 +585,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
     "image": "http://userserve-ak.last.fm/serve/126/34566095.jpg",
-    "info": "\n                    アウル・シティー (Owl City) とは、アメリカ人のミュージシャン「アダム・ヤング」 によるソロプロジェクトの名称である。\n シンセポップを基調としたエレクトロニカ色の強い楽曲スタイルで、ジャンルは「ドリーミー・エレクトロ・ポップ」と評される。また音楽性の近さからか、よくザ・ポスタル・サーヴィスと比較される事が多い。\n 元々はマイスペースを中心に2007年より活動していたインディーミュージシャンだったがユニバーサルミュージックに引き抜かれ、2009年7月28日にメジャー1枚目のアルバム『Ocean Eyes』を発表。このアルバムではゲストボーカルとしてリライアントKのマット・ティーセンも参加している。\n 『Ocean Eyes』はアメリカのビルボードチャートを上昇し続け11月7日付けのBillboard 200では8位まで上昇しTop10に入った。さらに、このアルバムに収録された楽曲「Fireflies」もダウンロード市場を中心に好評を博し、11月7日付けのBillboard Hot 100において遂に首位を獲得した[1]。その結果、アルバムトータルセールスも100万枚を超え、全米でプラチナムに認定されている。\n \n\n        <a href=\"http://www.last.fm/music/Owl+City\">Read more about Owl City on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                アウル・シティー (Owl City) とは、アメリカ人のミュージシャン「アダム・ヤング」 によるソロプロジェクトの名称である。\n シンセポップを基調としたエレクトロニカ色の強い楽曲スタイルで、ジャンルは「ドリーミー・エレクトロ・ポップ」と評される。また音楽性の近さからか、よくザ・ポスタル・サーヴィスと比較される事が多い。\n 元々はマイスペースを中心に2007年より活動していたインディーミュージシャンだったがユニバーサルミュージックに引き抜かれ、2009年7月28日にメジャー1枚目のアルバム『Ocean Eyes』を発表。このアルバムではゲストボーカルとしてリライアントKのマット・ティーセンも参加している。\n 『Ocean Eyes』はアメリカのビルボードチャートを上昇し続け11月7日付けのBillboard 200では8位まで上昇しTop10に入った。さらに、このアルバムに収録された楽曲「Fireflies」もダウンロード市場を中心に好評を博し、11月7日付けのBillboard Hot 100において遂に首位を獲得した[1]。その結果、アルバムトータルセールスも100万枚を超え、全米でプラチナムに認定されている。\n \n\n        <a href=\"http://www.last.fm/music/Owl+City\">Read more about Owl City on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Fireflies",
       "Good Time",
@@ -720,7 +720,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "ff621094-2a76-401f-8398-b75b5fd2be24",
     "image": "http://userserve-ak.last.fm/serve/126/26961583.jpg",
-    "info": "\n                    ジョニー・マー（Johnny　Marr、1963年10月31日 - ）はイギリスのギタリスト。マンチェスター生まれ。  アイルランド系移民の子として生まれる。両親はアイルランドのキルデア州出身である。1982年のザ・スミス結成後、バンドの人気に伴い一躍有名になる。ギターテクニックには定評があり、オアシスのノエル・ギャラガーや元スウェードのバーナード・バトラーなどといった多くのギタリストに影響を与えた。しかし人気絶頂の最中であった1987年にバンドを脱退。結果としてザ・スミスは解散してしまう。しかし、その後も活動を続け、1988年にザ・ザのギタリストになり、1989年にもニュー・オーダーのバーナード・サムナーとエレクトロニックを結成する。また、その後には、リンゴ・スターの息子ザック・スターキーや解散中であったクーラ・シェイカーのベーシストなどとジョニー・マー&amp;ザ・ヒーラーズも結成し、プロデュース業も数多くこなしている。マッシュルームカット風の髪型が特徴でサングラスも似合う。  \n\n        <a href=\"http://www.last.fm/music/Johnny+Marr\">Read more about Johnny Marr on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ジョニー・マー（Johnny　Marr、1963年10月31日 - ）はイギリスのギタリスト。マンチェスター生まれ。  アイルランド系移民の子として生まれる。両親はアイルランドのキルデア州出身である。1982年のザ・スミス結成後、バンドの人気に伴い一躍有名になる。ギターテクニックには定評があり、オアシスのノエル・ギャラガーや元スウェードのバーナード・バトラーなどといった多くのギタリストに影響を与えた。しかし人気絶頂の最中であった1987年にバンドを脱退。結果としてザ・スミスは解散してしまう。しかし、その後も活動を続け、1988年にザ・ザのギタリストになり、1989年にもニュー・オーダーのバーナード・サムナーとエレクトロニックを結成する。また、その後には、リンゴ・スターの息子ザック・スターキーや解散中であったクーラ・シェイカーのベーシストなどとジョニー・マー&amp;ザ・ヒーラーズも結成し、プロデュース業も数多くこなしている。マッシュルームカット風の髪型が特徴でサングラスも似合う。  \n\n        <a href=\"http://www.last.fm/music/Johnny+Marr\">Read more about Johnny Marr on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Easy Money",
       "Dynamo",
@@ -788,7 +788,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "aa76ec08-45ab-4724-9411-d80b0e59ac59",
     "image": "http://userserve-ak.last.fm/serve/126/79098513.png",
-    "info": "\n                    ザ・ヴァクシーンズ（The Vaccines）はイングランド・ロンドン出身の4人組インディー・ロックバンド。2010年に結成。  2011年3月にデビュー・アルバム『<a title=\"The Vaccines - What Did You Expect from The Vaccines?\" href=\"http://www.last.fm/music/The+Vaccines/What+Did+You+Expect+from+The+Vaccines%3F\" class=\"bbcode_album\">What Did You Expect from The Vaccines?</a>』がコロムビア・レコードからリリース。BBCの選ぶ「Sound of 2011」では3位に入り、ロック・バンドとしては唯一5位以内にランクインした。\n\n        <a href=\"http://www.last.fm/music/The+Vaccines\">Read more about The Vaccines on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ザ・ヴァクシーンズ（The Vaccines）はイングランド・ロンドン出身の4人組インディー・ロックバンド。2010年に結成。  2011年3月にデビュー・アルバム『<a title=\"The Vaccines - What Did You Expect from The Vaccines?\" href=\"http://www.last.fm/music/The+Vaccines/What+Did+You+Expect+from+The+Vaccines%3F\" class=\"bbcode_album\">What Did You Expect from The Vaccines?</a>』がコロムビア・レコードからリリース。BBCの選ぶ「Sound of 2011」では3位に入り、ロック・バンドとしては唯一5位以内にランクインした。\n\n        <a href=\"http://www.last.fm/music/The+Vaccines\">Read more about The Vaccines on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "If You Wanna",
       "Dream Lover",
@@ -960,7 +960,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "e000f4d8-b722-4120-9b5d-0a13d6f39be3",
     "image": "http://userserve-ak.last.fm/serve/126/82199547.png",
-    "info": "\n                    10-FEET（テンフィート）は、京都府出身の3人組ロックバンド。ユニバーサル J所属。ジャンルは主にメロディック・ハードコアに分類されるが、ミクスチャーナンバーもこなす。  バンド名は「届きそうで届かない距離」（10フィート＝約3メートル）の意。  メンバー\n     * TAKUMA（1975年8月14日 本名-三田村卓真 ）ボーカル・ギター担当。ギターはメタリカのジェームズ・ヘットフィールドの影響によりギブソン・エクスプローラーを使用。殆どの楽曲の作詞・作曲を担当。曲によってダミ声、デス声など様々な声色を使い分ける。顔芸が得意である。最近はギブソンのSGを使っている。\n     * NAOKI（1977年8月24日 本名-井上直樹 ）ベース・ボーカル担当。ベースはギブソン・サンダーバード、アーニーボール/ミュージックマン・スティングレイを使用していたが現在はバーニーのNAOKI ORIGINAL MODELをメインで使用。\n     * KOUICHI（1975年9月12日 本名-中岡浩一 ）ドラム・コーラス担当。ドラムはパールを使用。ネタとしてサポートドラマといわれている。  \n\n        <a href=\"http://www.last.fm/music/10-FEET\">Read more about 10-FEET on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                10-FEET（テンフィート）は、京都府出身の3人組ロックバンド。ユニバーサル J所属。ジャンルは主にメロディック・ハードコアに分類されるが、ミクスチャーナンバーもこなす。  バンド名は「届きそうで届かない距離」（10フィート＝約3メートル）の意。  メンバー\n     * TAKUMA（1975年8月14日 本名-三田村卓真 ）ボーカル・ギター担当。ギターはメタリカのジェームズ・ヘットフィールドの影響によりギブソン・エクスプローラーを使用。殆どの楽曲の作詞・作曲を担当。曲によってダミ声、デス声など様々な声色を使い分ける。顔芸が得意である。最近はギブソンのSGを使っている。\n     * NAOKI（1977年8月24日 本名-井上直樹 ）ベース・ボーカル担当。ベースはギブソン・サンダーバード、アーニーボール/ミュージックマン・スティングレイを使用していたが現在はバーニーのNAOKI ORIGINAL MODELをメインで使用。\n     * KOUICHI（1975年9月12日 本名-中岡浩一 ）ドラム・コーラス担当。ドラムはパールを使用。ネタとしてサポートドラマといわれている。  \n\n        <a href=\"http://www.last.fm/music/10-FEET\">Read more about 10-FEET on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "super stomper",
       "RIVER",
@@ -1026,7 +1026,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "03bef19b-535e-4b8a-a882-01fcb7324386",
     "image": "http://userserve-ak.last.fm/serve/126/104794295.png",
-    "info": "\n                    2007\n ［Champagne］（シャンペイン）として本格始動  2010.01.20\n RX-RECORDSより\n インディーズ 1st アルバム”Where's My Potato?”リリース。\n Drums 庄村 聡泰 正式加入  2011.02.09\n 2ndアルバム&quot;I Wanna Go To Hawaii.&quot;リリース  2012.04.04\n 3rdアルバム&quot;Schwarzenegger&quot;リリース  2013.06.26\n 4thアルバム&quot;Me No Do Karate.&quot;リリース  2014.03.28 \n ［Champagne］から［Alexandros］(アレキサンドロス)に改名  \n\n        <a href=\"http://www.last.fm/music/%5BAlexandros%5D\">Read more about [Alexandros] on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                2007\n ［Champagne］（シャンペイン）として本格始動  2010.01.20\n RX-RECORDSより\n インディーズ 1st アルバム”Where's My Potato?”リリース。\n Drums 庄村 聡泰 正式加入  2011.02.09\n 2ndアルバム&quot;I Wanna Go To Hawaii.&quot;リリース  2012.04.04\n 3rdアルバム&quot;Schwarzenegger&quot;リリース  2013.06.26\n 4thアルバム&quot;Me No Do Karate.&quot;リリース  2014.03.28 \n ［Champagne］から［Alexandros］(アレキサンドロス)に改名  \n\n        <a href=\"http://www.last.fm/music/%5BAlexandros%5D\">Read more about [Alexandros] on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Droshky!",
       "ワタリドリ",
@@ -1095,7 +1095,7 @@ Artist.find({}).remove(function() {
       13
     ],
     "mbid": "52c2b5d4-8f0e-4423-ab4d-ace68227ad44",
-    "image": "http://userserve-ak.last.fm/serve/126/103232181.jpg",
+    "image": "http://userserve-ak.last.fm/serve/126/98205549.png",
     "info": "",
     "top_tracks": [
       "Figure It Out",
@@ -1163,7 +1163,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "6c6011d1-7e13-4ea8-9858-a9b37ece668e",
     "image": "http://userserve-ak.last.fm/serve/126/36972735.jpg",
-    "info": "\n                    ベル・アンド・セバスチャン (BELLE AND SEBASTIAN) は、スコットランド、グラスゴー出身のロック/ポップバンド。彼らは1996年にバンドを結成した。  メンバー  スチュアート・マードック（ヴォーカル、ギター、キーボード） \n スティーヴィー・ジャクソン（ギター、ヴォーカル） \n リチャード・コルバーン（ドラム） \n クリス・ゲッズ（キーボード） \n サラ・マーティン（ヴァイオリン、ヴォーカル、キーボード、ギター） \n ミック・クック（トランペット、ベース、ギター） \n ボビー・キルディア（ギター、ベース）   旧メンバー  スチュワート・デヴィッド（ベース、ヴォーカル）・・・現在は『Looper』（ルーパー）という名義でソロ活動中 \n イザベル・キャンベル（チェロ、ヴォーカル）・・・現在は『Gentle Waves』（ジェントル・ウェイヴス）というプロジェクトで活動中   ディスコグラフィー  タイガーミルク （1996） \n 天使のため息 （1997） \n The Boy With The Arab Strap （1998） \n 私のなかの悪魔 （2000）＊ジャケットの双子の姉妹は後のムームのボーカル＊\n \n\n        <a href=\"http://www.last.fm/music/Belle+and+Sebastian\">Read more about Belle and Sebastian on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ベル・アンド・セバスチャン (BELLE AND SEBASTIAN) は、スコットランド、グラスゴー出身のロック/ポップバンド。彼らは1996年にバンドを結成した。  メンバー  スチュアート・マードック（ヴォーカル、ギター、キーボード） \n スティーヴィー・ジャクソン（ギター、ヴォーカル） \n リチャード・コルバーン（ドラム） \n クリス・ゲッズ（キーボード） \n サラ・マーティン（ヴァイオリン、ヴォーカル、キーボード、ギター） \n ミック・クック（トランペット、ベース、ギター） \n ボビー・キルディア（ギター、ベース）   旧メンバー  スチュワート・デヴィッド（ベース、ヴォーカル）・・・現在は『Looper』（ルーパー）という名義でソロ活動中 \n イザベル・キャンベル（チェロ、ヴォーカル）・・・現在は『Gentle Waves』（ジェントル・ウェイヴス）というプロジェクトで活動中   ディスコグラフィー  タイガーミルク （1996） \n 天使のため息 （1997） \n The Boy With The Arab Strap （1998） \n 私のなかの悪魔 （2000）＊ジャケットの双子の姉妹は後のムームのボーカル＊\n \n\n        <a href=\"http://www.last.fm/music/Belle+and+Sebastian\">Read more about Belle and Sebastian on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "The Party Line",
       "Nobody's Empire",
@@ -1493,7 +1493,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "395f5aea-af83-4c4b-b637-e93f798a82b0",
     "image": "http://userserve-ak.last.fm/serve/126/72377434.png",
-    "info": "\n                    ブンブンサテライツ（Boom Boom Satellites）は、中野雅之と川島道行によって結成されたビッグ・ビート（テクノ/ロック）ユニット。結成は1990年。1995年に田中フミヤ主宰とれまレコード傘下のUNTITLED RECORDS第一弾コンピレーションCDに楽曲提供し音源デビュー。 その後ベルギーのR&amp;Sレコーズでリリースされたシングルをきっかけに、ヨーロッパの「メロディーメイカー」誌は「ケミカル・ブラザーズ、プロディジー以来の衝撃」と報じた。また、略称は「ブンサテ」「ブンブン」「BBS」など。バンド名はジグ・ジグ・スパトニックの曲名から。  1998年には、R&amp;Sレコーズからデビューアルバムをリリース。6つのヨーロッパ大型フェスに出演後、帰国。\n その後Mobyと三ヶ月間のアメリカツアーを行い、その後、ガービッジなどの多くのアーティストからリミックス依頼を受ける。2004年には長篇アニメーション映画『アップルシード』のサントラに楽曲を提供。メインテーマも担当した。  \n\n        <a href=\"http://www.last.fm/music/Boom+Boom+Satellites\">Read more about Boom Boom Satellites on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ブンブンサテライツ（Boom Boom Satellites）は、中野雅之と川島道行によって結成されたビッグ・ビート（テクノ/ロック）ユニット。結成は1990年。1995年に田中フミヤ主宰とれまレコード傘下のUNTITLED RECORDS第一弾コンピレーションCDに楽曲提供し音源デビュー。 その後ベルギーのR&amp;Sレコーズでリリースされたシングルをきっかけに、ヨーロッパの「メロディーメイカー」誌は「ケミカル・ブラザーズ、プロディジー以来の衝撃」と報じた。また、略称は「ブンサテ」「ブンブン」「BBS」など。バンド名はジグ・ジグ・スパトニックの曲名から。  1998年には、R&amp;Sレコーズからデビューアルバムをリリース。6つのヨーロッパ大型フェスに出演後、帰国。\n その後Mobyと三ヶ月間のアメリカツアーを行い、その後、ガービッジなどの多くのアーティストからリミックス依頼を受ける。2004年には長篇アニメーション映画『アップルシード』のサントラに楽曲を提供。メインテーマも担当した。  \n\n        <a href=\"http://www.last.fm/music/Boom+Boom+Satellites\">Read more about Boom Boom Satellites on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Shut Up And Explode",
       "Easy Action",
@@ -1560,7 +1560,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "c5f5dc27-3059-49c0-ae45-5009a01bb9ec",
     "image": "http://userserve-ak.last.fm/serve/126/11328429.jpg",
-    "info": "\n                    スーパー・ファーリー・アニマルズ(Super Furry Animals)は、イギリスのロックバンド。ウェールズのカーディフ出身。略称はSFA、あるいはファーリーズ(Furries)、日本では「スーファリ」という愛称でも広く呼称されている（バンドはこの日本限定の略称を気に入っている模様）。1993年結成。  ひねくれていながらもポップさを失わないメロディ、様々な音楽要素を貪欲に取り込んだ実験性溢れるサウンドアプローチを特徴に、奇抜なサンプリング、高度な編集感覚、ユーモアの中にも社会風刺をふんだんに盛り込んだ歌詞などが高い評価を受ける。加えて、アートワーク、PV、ライブ・パフォーマンスなども含め全ての活動分野において芸術性を追求するバンド志向についても評価が高い。\n 本国イギリスのみならず、ヨーロッパ、日本でも根強い評判を誇る。  また、ウェールズの文化、言語に対しての愛着心が強く、結成当初はウェールズ語で曲を作っており、全編ウェールズ語歌詞で構成されたアルバムも発表している。\n\n        <a href=\"http://www.last.fm/music/Super+Furry+Animals\">Read more about Super Furry Animals on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                スーパー・ファーリー・アニマルズ(Super Furry Animals)は、イギリスのロックバンド。ウェールズのカーディフ出身。略称はSFA、あるいはファーリーズ(Furries)、日本では「スーファリ」という愛称でも広く呼称されている（バンドはこの日本限定の略称を気に入っている模様）。1993年結成。  ひねくれていながらもポップさを失わないメロディ、様々な音楽要素を貪欲に取り込んだ実験性溢れるサウンドアプローチを特徴に、奇抜なサンプリング、高度な編集感覚、ユーモアの中にも社会風刺をふんだんに盛り込んだ歌詞などが高い評価を受ける。加えて、アートワーク、PV、ライブ・パフォーマンスなども含め全ての活動分野において芸術性を追求するバンド志向についても評価が高い。\n 本国イギリスのみならず、ヨーロッパ、日本でも根強い評判を誇る。  また、ウェールズの文化、言語に対しての愛着心が強く、結成当初はウェールズ語で曲を作っており、全編ウェールズ語歌詞で構成されたアルバムも発表している。\n\n        <a href=\"http://www.last.fm/music/Super+Furry+Animals\">Read more about Super Furry Animals on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Hello Sunshine",
       "Juxtapozed With U",
@@ -1625,7 +1625,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "3770830c-45e8-44d1-a2c2-506ccae572c6",
     "image": "http://userserve-ak.last.fm/serve/126/80570265.jpg",
-    "info": "\n                    toe（トー）は日本のポストロックバンドである。2000年結成。  楽曲は、幻想的なサウンドを特徴としたインストゥルメンタルが多いが、SHAKKAZOMBIEのオオスミ、クラムボンの原田郁子など、ゲストボーカルを迎えた曲もある。また、2枚目のミニアルバム「new sentimentality e.p.」では、ギターの山嵜がボーカルをとる曲もある。  ドラムの柏倉は木村カエラのサポートドラムやthe HIATUS、ギターの美濃はレコーディングエンジニア、同じくベースの山根はクロックスのアジアアパレルマネージャー、ギターの山嵜は空間デザイナーとして活動している。また、2007年6月30日開始のフジテレビドラマ「ライフ」の音楽作家としても活動している。  2012年には&quot;The Future is Now ep&quot;を携え、８日間で８カ国まわるヨーロッパツアーを行う。その模様はtoeのドキュメンタリー＆ライブ映像作品「8 days dvd -toe EU tour 2012-」にて見る事ができる。  2013年には海外、１０都市をまわるUS &amp; Canada tourを行う。  \n\n        <a href=\"http://www.last.fm/music/toe\">Read more about toe on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                toe（トー）は日本のポストロックバンドである。2000年結成。  楽曲は、幻想的なサウンドを特徴としたインストゥルメンタルが多いが、SHAKKAZOMBIEのオオスミ、クラムボンの原田郁子など、ゲストボーカルを迎えた曲もある。また、2枚目のミニアルバム「new sentimentality e.p.」では、ギターの山嵜がボーカルをとる曲もある。  ドラムの柏倉は木村カエラのサポートドラムやthe HIATUS、ギターの美濃はレコーディングエンジニア、同じくベースの山根はクロックスのアジアアパレルマネージャー、ギターの山嵜は空間デザイナーとして活動している。また、2007年6月30日開始のフジテレビドラマ「ライフ」の音楽作家としても活動している。  2012年には&quot;The Future is Now ep&quot;を携え、８日間で８カ国まわるヨーロッパツアーを行う。その模様はtoeのドキュメンタリー＆ライブ映像作品「8 days dvd -toe EU tour 2012-」にて見る事ができる。  2013年には海外、１０都市をまわるUS &amp; Canada tourを行う。  \n\n        <a href=\"http://www.last.fm/music/toe\">Read more about toe on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Two Moons",
       "C",
@@ -1829,7 +1829,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "534beea4-58d9-435a-a7bb-fe69e1a32c5a",
     "image": "http://userserve-ak.last.fm/serve/126/80612253.png",
-    "info": "\n                    千葉県出身。大橋トリオと名乗るが、大橋好規による１人によるシンガーソングライタープロジェクト。\n ピアノ／ギター／ベース／ドラムなど数多くの楽器を演奏し、作曲／アレンジ／サウンドプロデュース／ミックスまで行う音楽家。音楽のベースにはJAZZやROCK,AOR,FUNKなどなど。。ジャミロクワイやジェイミーカラムに日本のPOPSが絶妙にブレンドされたサウンド。声は、くるりやはっぴぃえんど、マイケル・フランクスに似ていると例えられる事が多いよう。\n 俳優・ムラジュンこと村上淳のプッシュにより、インディーズで話題を呼び、2009年にmini album『A BIRD』メジャーデビューする。\n また同年には第一回となった全国のCD SHOP店員の投票からなる第一回CD SHOP大賞では、インディー作品『THIS IS MUSIC』で準大賞を授賞（大賞は相対性理論、もう１つの準大賞はPerfume）。\n 自身の作品活動以外も映画『余命１ヶ月の花嫁』のサントラ、小泉今日子や持田香織への楽曲提供やサウンドプロデュースなども行う。\n \n\n        <a href=\"http://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E3%83%88%E3%83%AA%E3%82%AA\">大橋トリオ on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                千葉県出身。大橋トリオと名乗るが、大橋好規による１人によるシンガーソングライタープロジェクト。\n ピアノ／ギター／ベース／ドラムなど数多くの楽器を演奏し、作曲／アレンジ／サウンドプロデュース／ミックスまで行う音楽家。音楽のベースにはJAZZやROCK,AOR,FUNKなどなど。。ジャミロクワイやジェイミーカラムに日本のPOPSが絶妙にブレンドされたサウンド。声は、くるりやはっぴぃえんど、マイケル・フランクスに似ていると例えられる事が多いよう。\n 俳優・ムラジュンこと村上淳のプッシュにより、インディーズで話題を呼び、2009年にmini album『A BIRD』メジャーデビューする。\n また同年には第一回となった全国のCD SHOP店員の投票からなる第一回CD SHOP大賞では、インディー作品『THIS IS MUSIC』で準大賞を授賞（大賞は相対性理論、もう１つの準大賞はPerfume）。\n 自身の作品活動以外も映画『余命１ヶ月の花嫁』のサントラ、小泉今日子や持田香織への楽曲提供やサウンドプロデュースなども行う。\n \n\n        <a href=\"http://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E3%83%88%E3%83%AA%E3%82%AA\">大橋トリオ on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Stay Gold",
       "HONEY",
@@ -1899,7 +1899,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "",
     "image": "http://userserve-ak.last.fm/serve/126/96629267.jpg",
-    "info": "\n                    サニーデイ・サービス（Sunny Day Service）は、日本のロックバンド。\n パンクバンドとして結成され（半分シャレで、精神的に「パンクバンド」という意味に推測される）、音楽性を変化させつつ1995年メジャーデビュー。デビューミニアルバムはフリッパーズ・ギターの影響色濃く、自らも「フリッパーズフォロワーですよ」とうそぶくほどであったが、初のフルアルバム『若者たち』ははっぴいえんどを髣髴とさせるフォークロックを９０年代のサンプリング的解釈で表現した作品となり、以後1990年代の新しいアコースティックバンドとして確かな実力を発露。評価を得る。  惜しまれながらも2000年12月14日「LoveAlbumツアー」最終日をもって解散。なお、シングルのほとんどがバンドメンバーの意向により絶版になっている。  その音楽面では「マンチェ（マッドチェスター、セカンドサマーオブラブ）」の影響から、広くロック、ポップス、ダンス、映画音楽まで 取り入れてのパンク〜ネオアコ的なD.I.\n\n        <a href=\"http://www.last.fm/music/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9\">Read more about サニーデイ・サービス on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                サニーデイ・サービス（Sunny Day Service）は、日本のロックバンド。\n パンクバンドとして結成され（半分シャレで、精神的に「パンクバンド」という意味に推測される）、音楽性を変化させつつ1995年メジャーデビュー。デビューミニアルバムはフリッパーズ・ギターの影響色濃く、自らも「フリッパーズフォロワーですよ」とうそぶくほどであったが、初のフルアルバム『若者たち』ははっぴいえんどを髣髴とさせるフォークロックを９０年代のサンプリング的解釈で表現した作品となり、以後1990年代の新しいアコースティックバンドとして確かな実力を発露。評価を得る。  惜しまれながらも2000年12月14日「LoveAlbumツアー」最終日をもって解散。なお、シングルのほとんどがバンドメンバーの意向により絶版になっている。  その音楽面では「マンチェ（マッドチェスター、セカンドサマーオブラブ）」の影響から、広くロック、ポップス、ダンス、映画音楽まで 取り入れてのパンク〜ネオアコ的なD.I.\n\n        <a href=\"http://www.last.fm/music/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9\">Read more about サニーデイ・サービス on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "恋におちたら",
       "青春狂走曲",
@@ -1966,7 +1966,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "0ac9ca0e-a8d6-4234-92dd-561ba4a66874",
     "image": "http://userserve-ak.last.fm/serve/126/2817602.jpg",
-    "info": "\n                    KEMURI（ケムリ）は日本のスカコア・パンク・ハードコアバンド。1995年結成。2007年12月9日、ZEPP TOKYOでのライブを最後に解散。その模様は「フジTV CS721」にて生中継された。\n 2012年、突如として再結成。2013年にはニューアルバムを発表した。\n 　\n 　\n メンバー\n 　\n 伊藤ふみお（ボーカル）\n     解散後はソニー・ミュージックアーティスツに移籍。ソロ・プロジェクトを始動。2008年3月、東京スカパラダイスオーケストラのアルバム「Perfect Future」にゲストボーカルとして参加。同9月には、上田現のトリビュートアルバム「Sirius〜Tribute to UEDA GEN〜」で「夢のブランコ」をカバー。また、2009年6月公開の映画「真夏のオリオン」で俳優デビュー。2009年10月21日にソロアルバム「MIDAGE RIOT」をリリース。\n 　\n 津田紀昭（ベース）\n \n\n        <a href=\"http://www.last.fm/music/Kemuri\">Read more about Kemuri on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                KEMURI（ケムリ）は日本のスカコア・パンク・ハードコアバンド。1995年結成。2007年12月9日、ZEPP TOKYOでのライブを最後に解散。その模様は「フジTV CS721」にて生中継された。\n 2012年、突如として再結成。2013年にはニューアルバムを発表した。\n 　\n 　\n メンバー\n 　\n 伊藤ふみお（ボーカル）\n     解散後はソニー・ミュージックアーティスツに移籍。ソロ・プロジェクトを始動。2008年3月、東京スカパラダイスオーケストラのアルバム「Perfect Future」にゲストボーカルとして参加。同9月には、上田現のトリビュートアルバム「Sirius〜Tribute to UEDA GEN〜」で「夢のブランコ」をカバー。また、2009年6月公開の映画「真夏のオリオン」で俳優デビュー。2009年10月21日にソロアルバム「MIDAGE RIOT」をリリース。\n 　\n 津田紀昭（ベース）\n \n\n        <a href=\"http://www.last.fm/music/Kemuri\">Read more about Kemuri on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Secret",
       "Heart Beat",
@@ -2031,7 +2031,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d",
     "image": "http://userserve-ak.last.fm/serve/126/72820434.jpg",
-    "info": "\n                    トッド・ラングレン（Todd Rundgren, 1948年6月22日 - ）は、アメリカのペンシルヴァニア州アッパー・ダービーに生まれたミュージシャン。一般的にはロックンロール、ソウルなどのジャンルに属するアーティストとされるが、ジャンルにとらわれない幅広い音楽活動を行い、非常に多くの作品を発表している(ただ、主に70年代の楽曲においてはビートルズからの大きな影響が指摘される)。  美しく切ないメロディを作り出すメロディメーカーとしてだけでなく、XTCやバッドフィンガー、グランド・ファンク・レイルロード、ジェシ・ウィンチェスターやザ・バンド、さらにはホール&amp;オーツなど数々の有名バンド・アーティストのプロデュースを行ったプロデューサーとしても、さらには1970年代という早い段階から、自分ですべての楽器を演奏しヴォーカルをとる自宅録音を行うなど、マルチ・プレイヤーとしても知られている。 1980年代後半から1990年代前半にかけては高野寛、レピッシュなど、日本のアーティストのプロデュースも手がけたこともある。現在はハワイに在住し、今なお精力的に音楽活動を続けている。  古くからマッキントッシュの熱狂的ファンであり、アップル・コンピュータのコマーシャル映像やイベントなどに登場したこともある。 \n\n        <a href=\"http://www.last.fm/music/Todd+Rundgren\">Read more about Todd Rundgren on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                トッド・ラングレン（Todd Rundgren, 1948年6月22日 - ）は、アメリカのペンシルヴァニア州アッパー・ダービーに生まれたミュージシャン。一般的にはロックンロール、ソウルなどのジャンルに属するアーティストとされるが、ジャンルにとらわれない幅広い音楽活動を行い、非常に多くの作品を発表している(ただ、主に70年代の楽曲においてはビートルズからの大きな影響が指摘される)。  美しく切ないメロディを作り出すメロディメーカーとしてだけでなく、XTCやバッドフィンガー、グランド・ファンク・レイルロード、ジェシ・ウィンチェスターやザ・バンド、さらにはホール&amp;オーツなど数々の有名バンド・アーティストのプロデュースを行ったプロデューサーとしても、さらには1970年代という早い段階から、自分ですべての楽器を演奏しヴォーカルをとる自宅録音を行うなど、マルチ・プレイヤーとしても知られている。 1980年代後半から1990年代前半にかけては高野寛、レピッシュなど、日本のアーティストのプロデュースも手がけたこともある。現在はハワイに在住し、今なお精力的に音楽活動を続けている。  古くからマッキントッシュの熱狂的ファンであり、アップル・コンピュータのコマーシャル映像やイベントなどに登場したこともある。 \n\n        <a href=\"http://www.last.fm/music/Todd+Rundgren\">Read more about Todd Rundgren on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "I Saw The Light",
       "Hello It's Me",
@@ -2100,7 +2100,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "a0347939-0334-44b0-b684-8606ab0f9655",
     "image": "http://userserve-ak.last.fm/serve/126/552785.jpg",
-    "info": "\n                    ペトロールズ(Petrolz)は２００５年にGt,長岡亮介によって結成された日本のスリーピースバンドである。  メンバーは\n ・長岡 亮介（ながおか りょうすけ、1978年10月7日 - ）千葉県出身\n 作曲・作詞・ボーカル・ギターを担当  ・三浦 淳悟（みうら じゅんご、 1975年7月17日 - ）神奈川県鎌倉市出身\n ベースを担当。愛称、&quot;ジャンボ&quot;  ・河村 俊秀（かわむら としひで、1978年12月5日 - ）大阪府高石市生まれ、千葉県育ち\n ドラムス・カホンを担当。愛称、&quot;ボブ&quot;  \n ▼略歴\n 2005年2月5日 - 長岡が三浦と河村を誘い結成。\n 長岡が演奏している赤坂のライブハウスで営業前に店を開けてもらい、初めて3人での音出しをした。\n 2005年10月15日 - 下北沢ガレージで初ライブ。以後も下北沢ガレージを拠点として活動。\n 2006年10月7日 - 渋谷7th FLOORにて盟友・伊澤啓太郎率いるあっぱとともに『ぱっぺ Vol.1』と銘打ったイベントを開催。\n \n\n        <a href=\"http://www.last.fm/music/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%BA\">Read more about ペトロールズ on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ペトロールズ(Petrolz)は２００５年にGt,長岡亮介によって結成された日本のスリーピースバンドである。  メンバーは\n ・長岡 亮介（ながおか りょうすけ、1978年10月7日 - ）千葉県出身\n 作曲・作詞・ボーカル・ギターを担当  ・三浦 淳悟（みうら じゅんご、 1975年7月17日 - ）神奈川県鎌倉市出身\n ベースを担当。愛称、&quot;ジャンボ&quot;  ・河村 俊秀（かわむら としひで、1978年12月5日 - ）大阪府高石市生まれ、千葉県育ち\n ドラムス・カホンを担当。愛称、&quot;ボブ&quot;  \n ▼略歴\n 2005年2月5日 - 長岡が三浦と河村を誘い結成。\n 長岡が演奏している赤坂のライブハウスで営業前に店を開けてもらい、初めて3人での音出しをした。\n 2005年10月15日 - 下北沢ガレージで初ライブ。以後も下北沢ガレージを拠点として活動。\n 2006年10月7日 - 渋谷7th FLOORにて盟友・伊澤啓太郎率いるあっぱとともに『ぱっぺ Vol.1』と銘打ったイベントを開催。\n \n\n        <a href=\"http://www.last.fm/music/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%BA\">Read more about ペトロールズ on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "雨",
       "インサイダー",
@@ -2166,7 +2166,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "366ab7f6-ea14-41b9-8ee9-dace1f39dd09",
     "image": "http://userserve-ak.last.fm/serve/126/5707389.jpg",
-    "info": "\n                    RIZE（ライズ）は、日本の男性3人組のロックバンドである。漢字で雷図と当て字をすることもある。幼馴染であるJESSEと金子ノブアキを中心に結成されたミクスチャーロックバンドである。RIZEの名前はJESSEが父Charに会社を作るから、名前を考えてくれと言われ考えたものだが、Charに伝えるともう決まったからいいと言われ採用されず、JESSEは他でいつか絶対使ってやると思っており、バンド結成時につけた。RIZEの家紋は、神紋である左三つ巴と雷を組み合わせて表現したもの。メンバーが共通して影響を受けた音楽はレッド・ホット・チリ・ペッパーズ、ニルヴァーナ、レイジ・アゲインスト・ザ・マシーンなどである。  メンバー\n JESSE  (ジェシー、1980年8 月11日 -AB型)=Jesse McFaddin（ジェシー・マクファーデン）=竹中空人（タケナカ ソラト）=SORATO - ボーカル/ギター担当。\n SORA3000,JROC,MR.13,大和EMCEEなどの名前でも活動している。アメリカ国籍。ギターリスト<a href=\"http://www.lastfm.jp/music/Char\">Char</a>の息子。  \n\n        <a href=\"http://www.last.fm/music/RIZE\">Read more about RIZE on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                RIZE（ライズ）は、日本の男性3人組のロックバンドである。漢字で雷図と当て字をすることもある。幼馴染であるJESSEと金子ノブアキを中心に結成されたミクスチャーロックバンドである。RIZEの名前はJESSEが父Charに会社を作るから、名前を考えてくれと言われ考えたものだが、Charに伝えるともう決まったからいいと言われ採用されず、JESSEは他でいつか絶対使ってやると思っており、バンド結成時につけた。RIZEの家紋は、神紋である左三つ巴と雷を組み合わせて表現したもの。メンバーが共通して影響を受けた音楽はレッド・ホット・チリ・ペッパーズ、ニルヴァーナ、レイジ・アゲインスト・ザ・マシーンなどである。  メンバー\n JESSE  (ジェシー、1980年8 月11日 -AB型)=Jesse McFaddin（ジェシー・マクファーデン）=竹中空人（タケナカ ソラト）=SORATO - ボーカル/ギター担当。\n SORA3000,JROC,MR.13,大和EMCEEなどの名前でも活動している。アメリカ国籍。ギターリスト<a href=\"http://www.lastfm.jp/music/Char\">Char</a>の息子。  \n\n        <a href=\"http://www.last.fm/music/RIZE\">Read more about RIZE on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "LADY LOVE",
       "Why I'm Me",
@@ -2231,7 +2231,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "",
     "image": "http://userserve-ak.last.fm/serve/126/103339489.png",
-    "info": "\n                    橋本 翼　　 guitar / clarinet / chorus 　→ジオラマシーン（他の音楽活動)\n 高城 晶平　vocal / bass / guitar 　→阿佐ヶ谷茄子食堂（ブログ)\n 荒内 佑　　 keyboard / bass / chorus 　→人じゃない（ブログ)  ＜特殊サポーター＞\n MC.sirafu　 trumpet / steel pan / DS / chorus / etc.. 　→片想い（バンド)、ザ・なつやすみバンド、うつくしきひかり\n あだち麗三郎　 drum / chorus 　→あだち麗三郎HP  Contemporary Exotica Rock Orchestra　略してcero(セロ)。\n 2004年に高城、荒内、柳で結成。2006年ごろからジオラマシーンとして活動する橋本が加入。\n 様々な感情、情景を広く『エキゾチカ』と捉え、ポップミュージックへと昇華させる。\n 2007年、鈴木慶一氏（moonriders）の耳にとまりプロデュースしてもらう。\n その後、坂本龍一氏のレーベルcommmonsより発売された「細野晴臣　strange song book -tribute to haromi hosono 2-」収録の鈴木慶一「東京シャイネスボーイ」に参加。\n \n\n        <a href=\"http://www.last.fm/music/Cero\">Read more about Cero on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                橋本 翼　　 guitar / clarinet / chorus 　→ジオラマシーン（他の音楽活動)\n 高城 晶平　vocal / bass / guitar 　→阿佐ヶ谷茄子食堂（ブログ)\n 荒内 佑　　 keyboard / bass / chorus 　→人じゃない（ブログ)  ＜特殊サポーター＞\n MC.sirafu　 trumpet / steel pan / DS / chorus / etc.. 　→片想い（バンド)、ザ・なつやすみバンド、うつくしきひかり\n あだち麗三郎　 drum / chorus 　→あだち麗三郎HP  Contemporary Exotica Rock Orchestra　略してcero(セロ)。\n 2004年に高城、荒内、柳で結成。2006年ごろからジオラマシーンとして活動する橋本が加入。\n 様々な感情、情景を広く『エキゾチカ』と捉え、ポップミュージックへと昇華させる。\n 2007年、鈴木慶一氏（moonriders）の耳にとまりプロデュースしてもらう。\n その後、坂本龍一氏のレーベルcommmonsより発売された「細野晴臣　strange song book -tribute to haromi hosono 2-」収録の鈴木慶一「東京シャイネスボーイ」に参加。\n \n\n        <a href=\"http://www.last.fm/music/Cero\">Read more about Cero on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Orphans",
       "マウンテン・マウンテン",
@@ -2433,7 +2433,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "32a33706-d32c-43e9-a68c-fe639b04fc1b",
     "image": "http://userserve-ak.last.fm/serve/126/88338669.png",
-    "info": "\n                    斉藤和義によるギターと中村達也(LOSALIOS)のドラムにて構成される激烈な個性に満ちた二人による無頼派ユニット。昨年の夏に急遽結成され、JOIN ALIVE'11、ARABAKI ROCK FEST.11、FUJI ROCK FESTIVAL'11など圧巻のパフォーマンスで各地のフェスを席巻。そして、デビューアルバム「Ma! Ma! Ma! MANNISH BOYS!!!」を2012年9月19日にリリースし、全国を巡るサーキットツアーも決定。\n\n        <a href=\"http://www.last.fm/music/Mannish+Boys\">Mannish Boys on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                斉藤和義によるギターと中村達也(LOSALIOS)のドラムにて構成される激烈な個性に満ちた二人による無頼派ユニット。昨年の夏に急遽結成され、JOIN ALIVE'11、ARABAKI ROCK FEST.11、FUJI ROCK FESTIVAL'11など圧巻のパフォーマンスで各地のフェスを席巻。そして、デビューアルバム「Ma! Ma! Ma! MANNISH BOYS!!!」を2012年9月19日にリリースし、全国を巡るサーキットツアーも決定。\n\n        <a href=\"http://www.last.fm/music/Mannish+Boys\">Mannish Boys on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Dark is easy",
       "I am Dandy",
@@ -2500,7 +2500,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "01f4fb92-6bf0-4de5-83dc-3fe194e763bf",
     "image": "http://userserve-ak.last.fm/serve/126/29806845.jpg",
-    "info": "\n                    ハッピー・マンデーズ (Happy Mondays) は、イギリスのロック・バンド。  バンド名はニュー・オーダーのヒット曲「ブルー・マンデー」に由来する。ショーン・ライダーのしわがれたボーカルと、レイヴカルチャーをバンドで体現する野太いグルーヴが合わさった独特で能天気なダンスサウンドが特徴。  1984年に結成。1985年に初音源となるEP「Forty Five」を発表し、1987年、ジョン・ケイルのプロデュースによるファースト・アルバム『Squirrel and G-Man Twenty Four Hour Party People Plastic Face Carnt Smile (White Out)』発表。ザ・ストーン・ローゼズやニュー・オーダーといったバンドとともにマッドチェスター・ムーブメントの中心バンドとして活躍し、1990年のアルバム『Pills 'n' Thrills and Bellyaches』は全英4位のヒット作となった。  \n\n        <a href=\"http://www.last.fm/music/Happy+Mondays\">Read more about Happy Mondays on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ハッピー・マンデーズ (Happy Mondays) は、イギリスのロック・バンド。  バンド名はニュー・オーダーのヒット曲「ブルー・マンデー」に由来する。ショーン・ライダーのしわがれたボーカルと、レイヴカルチャーをバンドで体現する野太いグルーヴが合わさった独特で能天気なダンスサウンドが特徴。  1984年に結成。1985年に初音源となるEP「Forty Five」を発表し、1987年、ジョン・ケイルのプロデュースによるファースト・アルバム『Squirrel and G-Man Twenty Four Hour Party People Plastic Face Carnt Smile (White Out)』発表。ザ・ストーン・ローゼズやニュー・オーダーといったバンドとともにマッドチェスター・ムーブメントの中心バンドとして活躍し、1990年のアルバム『Pills 'n' Thrills and Bellyaches』は全英4位のヒット作となった。  \n\n        <a href=\"http://www.last.fm/music/Happy+Mondays\">Read more about Happy Mondays on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Step On",
       "Kinky Afro",
@@ -2567,7 +2567,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
     "image": "http://userserve-ak.last.fm/serve/126/104355619.png",
-    "info": "\n                    オブ・モンスターズ・アンド・メン (Of Monsters and Men) とは、アイスランド, ケプラヴィークにて結成されたインディー・フォークバンドである。2010年結成で、アルバム『My Head Is an Animal』でデビューし、全米ビルボード200にて初登場6位を記録した[1]。  現在のメンバー      ナッナ・ブラインディス・ヒルマースドッティアー (Nanna Bryndís Hilmarsdóttir)\n     ラグナー・ポーホールッソン (Ragnar Þórhallsson)\n     ブラインジャー・レイフッソン (Brynjar Leifsson)\n     アーナー・ローゼンクランツ・ヒルマーソン (Arnar Rósenkranz Hilmarsson)\n     クリストジャン・ポール・クリストジャンソン (Kristján Páll Kristjánsson )  \n\n        <a href=\"http://www.last.fm/music/Of+Monsters+and+Men\">Read more about Of Monsters and Men on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                オブ・モンスターズ・アンド・メン (Of Monsters and Men) とは、アイスランド, ケプラヴィークにて結成されたインディー・フォークバンドである。2010年結成で、アルバム『My Head Is an Animal』でデビューし、全米ビルボード200にて初登場6位を記録した[1]。  現在のメンバー      ナッナ・ブラインディス・ヒルマースドッティアー (Nanna Bryndís Hilmarsdóttir)\n     ラグナー・ポーホールッソン (Ragnar Þórhallsson)\n     ブラインジャー・レイフッソン (Brynjar Leifsson)\n     アーナー・ローゼンクランツ・ヒルマーソン (Arnar Rósenkranz Hilmarsson)\n     クリストジャン・ポール・クリストジャンソン (Kristján Páll Kristjánsson )  \n\n        <a href=\"http://www.last.fm/music/Of+Monsters+and+Men\">Read more about Of Monsters and Men on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Little Talks",
       "Dirty Paws",
@@ -2632,7 +2632,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "14cd43ce-306b-463d-ad84-984c8f7b73ed",
     "image": "http://userserve-ak.last.fm/serve/126/83613829.png",
-    "info": "\n                    アッシュ（Ash）は、イギリス、北アイルランドのダウンパトリック（Downpatrick）出身のロックバンドである。1990年代前半のブリットポップ期にデビューしたバンドのなかで、今日まで活動を続けている数少ない存在である。 ストレートなギターサウンドと、みずみずしい青春を歌ったポップでキャッチーな曲調が特徴。 メンバーはまだ30代になったばかりという若さながら、バンドとしてのキャリアは15年を超えている。  1992年、15歳のティムとマークは、通っていた学校の2年年上で、当時から音楽狂の変人として周囲からみられていたというリックを誘い3人でアッシュを結成。バンド名は、辞書の中から自分たちが気に入った最初の単語から名づけられた。当初は地元でのライブ活動しか行っていなかったが、ほどなくして英国内に吹き出したブリットポップブームの風に乗り、エラスティカの前座に抜擢されてツアーをこなすようになった。しかしこのころのメンバーはまだ高校生活と並行して活動をおこなっていたため、直後のグリーン・デイからの前座依頼を、「試験があるから」との理由で断っている。この時期、ミニ・アルバム『トレイラー』をリリースし本格的にデビューする。 \n\n        <a href=\"http://www.last.fm/music/Ash\">Read more about Ash on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                アッシュ（Ash）は、イギリス、北アイルランドのダウンパトリック（Downpatrick）出身のロックバンドである。1990年代前半のブリットポップ期にデビューしたバンドのなかで、今日まで活動を続けている数少ない存在である。 ストレートなギターサウンドと、みずみずしい青春を歌ったポップでキャッチーな曲調が特徴。 メンバーはまだ30代になったばかりという若さながら、バンドとしてのキャリアは15年を超えている。  1992年、15歳のティムとマークは、通っていた学校の2年年上で、当時から音楽狂の変人として周囲からみられていたというリックを誘い3人でアッシュを結成。バンド名は、辞書の中から自分たちが気に入った最初の単語から名づけられた。当初は地元でのライブ活動しか行っていなかったが、ほどなくして英国内に吹き出したブリットポップブームの風に乗り、エラスティカの前座に抜擢されてツアーをこなすようになった。しかしこのころのメンバーはまだ高校生活と並行して活動をおこなっていたため、直後のグリーン・デイからの前座依頼を、「試験があるから」との理由で断っている。この時期、ミニ・アルバム『トレイラー』をリリースし本格的にデビューする。 \n\n        <a href=\"http://www.last.fm/music/Ash\">Read more about Ash on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Girl From Mars",
       "Burn Baby Burn",
@@ -2702,7 +2702,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "da3d15ea-4011-4cc7-bd73-b4192891c1d4",
     "image": "http://userserve-ak.last.fm/serve/126/67853224.jpg",
-    "info": "\n                    岡村 靖幸 （おかむら やすゆき、1965年8月14日 -）は、日本のロックミュージシャン。兵庫県神戸市生まれ。血液型B型。愛称岡村ちゃん。  歌中で「シンガーソングライターダンサー」と自称するほどの独特のダンスで、ライブ・パフォーマーとしての評価も高い。本人自らが各所で語るように、米国のミュージシャン<a href=\"http://www.last.fm/music/Prince\" class=\"bbcode_artist\">Prince</a> の影響を多大に受けており、音楽以外のスタイルも含め和製プリンスと呼ばれる事が多い。\n\n        <a href=\"http://www.last.fm/music/%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8\">Read more about 岡村靖幸 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                岡村 靖幸 （おかむら やすゆき、1965年8月14日 -）は、日本のロックミュージシャン。兵庫県神戸市生まれ。血液型B型。愛称岡村ちゃん。  歌中で「シンガーソングライターダンサー」と自称するほどの独特のダンスで、ライブ・パフォーマーとしての評価も高い。本人自らが各所で語るように、米国のミュージシャン<a href=\"http://www.last.fm/music/Prince\" class=\"bbcode_artist\">Prince</a> の影響を多大に受けており、音楽以外のスタイルも含め和製プリンスと呼ばれる事が多い。\n\n        <a href=\"http://www.last.fm/music/%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8\">Read more about 岡村靖幸 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Automatic",
       "ビバナミダ",
@@ -2767,7 +2767,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "c80f38a6-9980-485d-997c-5c1a9cbd0d64",
     "image": "http://userserve-ak.last.fm/serve/126/29408649.png",
-    "info": "\n                    ライアン・アダムス（Ryan Adams、1974年11月5日 - ）は\n アメリカ合衆国ノースカロライナ州出身の男性シンガーソングライター。  傷つきやすい魂を抱えた男……。\n ライアン・アダムスの歌を聴いていると、\n グラム・パーソンズやリチャード・マニュエルを思い出さざるをえない。  憂鬱ながらも深い情感が込められた声は、\n 聴くものを感傷の底へ突き落とすような力をもっているのだ。  幼い頃よりパンクとカントリーを愛聴し、\n 直情的な攻撃性と細やかな感情表現の両方を継承。\n 自身がフロントマンを務めるウィスキータウンの活動軌道が定まらないのも、\n そのムラッ気ゆえか……。  00年の初ソロ・アルバム『ハートブレイカー』は、\n ナッシュヴィルにおいて僅か2週間で録音されたという。  楽器をできるだけ絞った簡素極まりないサウンドにのって、\n センシティヴな心情を無防備に曝け出す。  エミルー・ハリスやギリアン・ウェルチといったゲスト陣も、\n ライアンの孤独感を浮き彫りにしていく。  特にエミルーがデュエットする「Oh My Sweet Carolina」は名曲。\n ここでのライアンの歌唱は余りにはかなく、余りに美しい。\n \n\n        <a href=\"http://www.last.fm/music/Ryan+Adams\">Read more about Ryan Adams on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ライアン・アダムス（Ryan Adams、1974年11月5日 - ）は\n アメリカ合衆国ノースカロライナ州出身の男性シンガーソングライター。  傷つきやすい魂を抱えた男……。\n ライアン・アダムスの歌を聴いていると、\n グラム・パーソンズやリチャード・マニュエルを思い出さざるをえない。  憂鬱ながらも深い情感が込められた声は、\n 聴くものを感傷の底へ突き落とすような力をもっているのだ。  幼い頃よりパンクとカントリーを愛聴し、\n 直情的な攻撃性と細やかな感情表現の両方を継承。\n 自身がフロントマンを務めるウィスキータウンの活動軌道が定まらないのも、\n そのムラッ気ゆえか……。  00年の初ソロ・アルバム『ハートブレイカー』は、\n ナッシュヴィルにおいて僅か2週間で録音されたという。  楽器をできるだけ絞った簡素極まりないサウンドにのって、\n センシティヴな心情を無防備に曝け出す。  エミルー・ハリスやギリアン・ウェルチといったゲスト陣も、\n ライアンの孤独感を浮き彫りにしていく。  特にエミルーがデュエットする「Oh My Sweet Carolina」は名曲。\n ここでのライアンの歌唱は余りにはかなく、余りに美しい。\n \n\n        <a href=\"http://www.last.fm/music/Ryan+Adams\">Read more about Ryan Adams on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Wonderwall",
       "Gimme Something Good",
@@ -2905,7 +2905,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "a529385c-39a7-4be6-8dd4-0b34f9371d15",
     "image": "http://userserve-ak.last.fm/serve/126/104573199.jpg",
-    "info": "\n                    VoGtSyn:MC.K(indigo la End) \n Ba:休日課長(ex.indigo la End) \n Key:ちゃんMARI(CRIMSON) \n Dr:ほな・いこか(microcosm)   2012年5月にindigo la EndのボーカルでもあるMC.Kを中心に結成した4人組ヒップホッププログレバンド。 \n 高い演奏技術を駆使した何が起こるかわからない曲展開に全てを飲み込んでしまう声。 \n プログレ、ヒップホップを基調としながらも独自のポップメロディを奏でる天才集団である。\n\n        <a href=\"http://www.last.fm/music/%E3%82%B2%E3%82%B9%E3%81%AE%E6%A5%B5%E3%81%BF%E4%B9%99%E5%A5%B3%E3%80%82\">Read more about ゲスの極み乙女。 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                VoGtSyn:MC.K(indigo la End) \n Ba:休日課長(ex.indigo la End) \n Key:ちゃんMARI(CRIMSON) \n Dr:ほな・いこか(microcosm)   2012年5月にindigo la EndのボーカルでもあるMC.Kを中心に結成した4人組ヒップホッププログレバンド。 \n 高い演奏技術を駆使した何が起こるかわからない曲展開に全てを飲み込んでしまう声。 \n プログレ、ヒップホップを基調としながらも独自のポップメロディを奏でる天才集団である。\n\n        <a href=\"http://www.last.fm/music/%E3%82%B2%E3%82%B9%E3%81%AE%E6%A5%B5%E3%81%BF%E4%B9%99%E5%A5%B3%E3%80%82\">Read more about ゲスの極み乙女。 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "猟奇的なキスを私にして",
       "デジタルモグラ",
@@ -3243,7 +3243,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "90952072-a2a5-44cc-afb6-f7cf5808e215",
     "image": "http://userserve-ak.last.fm/serve/126/82105189.png",
-    "info": "\n                    Scoobie Do（スクービードゥー）は、日本の男性4人組で構成される、ファンクバンド。通称「スクービー」(1999年までは「ビードゥー」と呼ばれていた)。バンド名の由来は、幼馴染であるマツキとコヤマが、バンド名を決める際に眺めたレコードカタログでCalvin Arnoldというアメリカ人R&amp;Bシンガーの「SCOOBIE DO」という曲名を気に入ったところにあり、アニメ「スクービー・ドゥー」（弱虫クルッパー）にちなんだものではない。  1960年代・1970年代のソウル・ミュージックや、リズム&amp;ブルース、ロックからの影響を濃く受けた、ファンキー&amp;グルーヴィーな音楽と、独特で激しいライブパフォーマンスが特徴。  現在、既存のファンク・ミュージックの枠には当てはまらない幅広い音楽をしているということで、自らの音楽を2005年より「Funk-a- lismo」（ファンカリズモ）と称している。  尚、メンバーの項目までは2010年4月21日に行われたトークショーでメンバー本人達により公開編集されている。  メンバー\n \n\n        <a href=\"http://www.last.fm/music/Scoobie+Do\">Read more about Scoobie Do on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                Scoobie Do（スクービードゥー）は、日本の男性4人組で構成される、ファンクバンド。通称「スクービー」(1999年までは「ビードゥー」と呼ばれていた)。バンド名の由来は、幼馴染であるマツキとコヤマが、バンド名を決める際に眺めたレコードカタログでCalvin Arnoldというアメリカ人R&amp;Bシンガーの「SCOOBIE DO」という曲名を気に入ったところにあり、アニメ「スクービー・ドゥー」（弱虫クルッパー）にちなんだものではない。  1960年代・1970年代のソウル・ミュージックや、リズム&amp;ブルース、ロックからの影響を濃く受けた、ファンキー&amp;グルーヴィーな音楽と、独特で激しいライブパフォーマンスが特徴。  現在、既存のファンク・ミュージックの枠には当てはまらない幅広い音楽をしているということで、自らの音楽を2005年より「Funk-a- lismo」（ファンカリズモ）と称している。  尚、メンバーの項目までは2010年4月21日に行われたトークショーでメンバー本人達により公開編集されている。  メンバー\n \n\n        <a href=\"http://www.last.fm/music/Scoobie+Do\">Read more about Scoobie Do on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Akaneiro ga Moeru Toki",
       "茜色が燃えるとき",
@@ -3377,7 +3377,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "02466006-f50c-488c-8b75-d8ddf4468645",
     "image": "http://userserve-ak.last.fm/serve/126/103336159.png",
-    "info": "\n                    Vo/Gt ヤマサキ セイヤ(ex セルフボラギノール)　　　\n 　　　　\n Gt オカザワ カズマ(ex セルフボラギノール)  Ba カワクボ タクロウ　  Key/Vo ヨコタ シンノスケ(ex BLANK MAP)  Dr ソゴウ タイスケ(ex バカ力)  \n 2009年12月関学にて結成！！！2010年より関西を中心に活動中！！！  2011年11月25日　Baはがね丸脱退。テクノブレイカーの道へ。同時にカワクボ タクロウ加入。    FFーX－２より\n 「キューソネコカミ」\n 何のへんてつもない珠だが　ピンチの時その力は解放される……\n ピンチ（死にかけ）になると攻撃・回復共に9999になる\n\n        <a href=\"http://www.last.fm/music/%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%BD%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%9F\">Read more about キュウソネコカミ on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                Vo/Gt ヤマサキ セイヤ(ex セルフボラギノール)　　　\n 　　　　\n Gt オカザワ カズマ(ex セルフボラギノール)  Ba カワクボ タクロウ　  Key/Vo ヨコタ シンノスケ(ex BLANK MAP)  Dr ソゴウ タイスケ(ex バカ力)  \n 2009年12月関学にて結成！！！2010年より関西を中心に活動中！！！  2011年11月25日　Baはがね丸脱退。テクノブレイカーの道へ。同時にカワクボ タクロウ加入。    FFーX－２より\n 「キューソネコカミ」\n 何のへんてつもない珠だが　ピンチの時その力は解放される……\n ピンチ（死にかけ）になると攻撃・回復共に9999になる\n\n        <a href=\"http://www.last.fm/music/%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%BD%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%9F\">Read more about キュウソネコカミ on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "ビビった",
       "GALAXY",
@@ -3510,7 +3510,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "58ff022e-1143-453b-b419-909ca48a20e5",
     "image": "http://userserve-ak.last.fm/serve/126/45513049.png",
-    "info": "\n                    \n\n        <a href=\"http://www.last.fm/music/Group_inou\">Read more about Group_inou on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                \n\n        <a href=\"http://www.last.fm/music/Group_inou\">Read more about Group_inou on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Judge",
       "Heart",
@@ -3809,7 +3809,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "619431df-7efd-4db0-a476-3b451098e14d",
     "image": "http://userserve-ak.last.fm/serve/126/96119429.png",
-    "info": "\n                    2010年よりSoundcloudに作品をアップしトラックメーカーとしての活動を開始。2011年にMaltine RecordsからEP『Intense Electro Disco』がリリースされるや、その海外のトラックメーカー顔負けのクオリティが、ネット系クリエイターを中心に大きな注目を集め、僅か2日で4000ダウンロードを記録。元BEAT CRUSADERSのメンバーで現在はDJとしても活躍しているクボタマサヒコが『Samurai』誌でベストディスクに挙げるなど、大きな話題となった。\n クラブを経験していない10代であり、楽曲制作をはじめて僅か1年と決して多くない経験値であるにもかかわらず、国内産ダンス・トラックの枠を超えるようなド迫力の音圧と、高いソングライティングのセンスを感じさせる楽曲は、日本の音楽シーンに次世代の波が押し寄せていることを高らかに証明している。海外で闘えるエレクトロ・アクトの誕生と言えるだろう。\n また先日は世界的に有名な巨大ダンス・ミュージック・フェスティバルULTRA MUSIC FESTIVAL（UMF）日本上陸パーティー＜ROAD TO ULTRA TOKYO＞ 東京 ageHa＠STUDIO COAST(2013.12.20)に国内人気DJ陣の一人として参加、多大な注目を浴びると共に、オーディエンスをわかせることに成功した。 \n\n        <a href=\"http://www.last.fm/music/Banvox\">Read more about Banvox on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                2010年よりSoundcloudに作品をアップしトラックメーカーとしての活動を開始。2011年にMaltine RecordsからEP『Intense Electro Disco』がリリースされるや、その海外のトラックメーカー顔負けのクオリティが、ネット系クリエイターを中心に大きな注目を集め、僅か2日で4000ダウンロードを記録。元BEAT CRUSADERSのメンバーで現在はDJとしても活躍しているクボタマサヒコが『Samurai』誌でベストディスクに挙げるなど、大きな話題となった。\n クラブを経験していない10代であり、楽曲制作をはじめて僅か1年と決して多くない経験値であるにもかかわらず、国内産ダンス・トラックの枠を超えるようなド迫力の音圧と、高いソングライティングのセンスを感じさせる楽曲は、日本の音楽シーンに次世代の波が押し寄せていることを高らかに証明している。海外で闘えるエレクトロ・アクトの誕生と言えるだろう。\n また先日は世界的に有名な巨大ダンス・ミュージック・フェスティバルULTRA MUSIC FESTIVAL（UMF）日本上陸パーティー＜ROAD TO ULTRA TOKYO＞ 東京 ageHa＠STUDIO COAST(2013.12.20)に国内人気DJ陣の一人として参加、多大な注目を浴びると共に、オーディエンスをわかせることに成功した。 \n\n        <a href=\"http://www.last.fm/music/Banvox\">Read more about Banvox on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Laser",
       "Connection",
@@ -4066,7 +4066,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "9b643375-2913-4877-bb1e-3de576ff20ab",
     "image": "http://userserve-ak.last.fm/serve/126/76504652.png",
-    "info": "\n                    女王蜂（じょおうばち）は、日本の4人組ロックバンド。2009年に兵庫県神戸市で結成され、2011年にデビュー。  2009年3月31日に兵庫県神戸市で、アヴちゃん、やしちゃん、ルリちゃんの3人で結成。後にギギちゃんが加入し、現在のメンバーとなる。ライブ会場を中心に活動し、自主制作CD「姫様御乱心」「王族大逆鱗」（いずれも販売終了）をそれぞれ発表。2010年7月、FUJI ROCK FESTIVAL 2010「ROOKIE A GO-GO」枠に選出され出演。  2011年2月、iTunes Storeにて楽曲「フランス人形の呪い」の先行配信を経て、3月に初の全国流通盤となるアルバム『魔女狩り』を発表。6月、Sony Music Associated Recordsからのメジャーデビューと、映画『モテキ』のテーマソングおよび出演バンドへの抜擢を発表。  メンバー  いずれも生年および本名は非公開。      アヴちゃん（12月25日生）\n         ボーカル担当。\n         作詞作曲時のクレジットは薔薇園アヴ（ばらぞのアヴ）名義。      やしちゃん（9月3日生）\n         ベース担当。 \n\n        <a href=\"http://www.last.fm/music/%E5%A5%B3%E7%8E%8B%E8%9C%82\">Read more about 女王蜂 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                女王蜂（じょおうばち）は、日本の4人組ロックバンド。2009年に兵庫県神戸市で結成され、2011年にデビュー。  2009年3月31日に兵庫県神戸市で、アヴちゃん、やしちゃん、ルリちゃんの3人で結成。後にギギちゃんが加入し、現在のメンバーとなる。ライブ会場を中心に活動し、自主制作CD「姫様御乱心」「王族大逆鱗」（いずれも販売終了）をそれぞれ発表。2010年7月、FUJI ROCK FESTIVAL 2010「ROOKIE A GO-GO」枠に選出され出演。  2011年2月、iTunes Storeにて楽曲「フランス人形の呪い」の先行配信を経て、3月に初の全国流通盤となるアルバム『魔女狩り』を発表。6月、Sony Music Associated Recordsからのメジャーデビューと、映画『モテキ』のテーマソングおよび出演バンドへの抜擢を発表。  メンバー  いずれも生年および本名は非公開。      アヴちゃん（12月25日生）\n         ボーカル担当。\n         作詞作曲時のクレジットは薔薇園アヴ（ばらぞのアヴ）名義。      やしちゃん（9月3日生）\n         ベース担当。 \n\n        <a href=\"http://www.last.fm/music/%E5%A5%B3%E7%8E%8B%E8%9C%82\">Read more about 女王蜂 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "デスコ",
       "ヴィーナス",
@@ -4458,7 +4458,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "381f7091-1a6c-446b-8421-10d58e481b9c",
     "image": "http://userserve-ak.last.fm/serve/126/101504627.jpg",
-    "info": "\n                    1987年生。トラックメーカー、DJ、VJ と音楽や映像など媒体の垣根を越え表現をし続けるマルチアーティスト。\n 小学生の時携帯の着メロの作成や家にあったパソコンでDTMに目覚める。その後中学、高校とジャズトロンボーンやギターを演奏する傍ら自宅録音を中心に「心地の良いノイズ」と「ミニマル」をテーマに作品 を制作しインターネットを通し定期的に発表してきた。現在は絵画、写真、映像、小説、朗読等、様々な表現を自らの楽曲に取り入れ、ライヴ 以外にも映画・舞台のサウンドトラックやギャラリーの空間デザイン等多岐に渡る活動をしている。\n DUBSTEP,URBANSOUL,4 つ打ち等あらゆるビートを駆使しながら畳み掛ける彼のLIVEは必見。”今”の音を刻む数少ないアーティストの1人。  DJ, VJ, producer in his young twenties—his music visions first appear in elementary school making cell phone ringtones like any nerdy kid, and then moving on to a laptop.\n\n        <a href=\"http://www.last.fm/music/Seiho\">Read more about Seiho on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                1987年生。トラックメーカー、DJ、VJ と音楽や映像など媒体の垣根を越え表現をし続けるマルチアーティスト。\n 小学生の時携帯の着メロの作成や家にあったパソコンでDTMに目覚める。その後中学、高校とジャズトロンボーンやギターを演奏する傍ら自宅録音を中心に「心地の良いノイズ」と「ミニマル」をテーマに作品 を制作しインターネットを通し定期的に発表してきた。現在は絵画、写真、映像、小説、朗読等、様々な表現を自らの楽曲に取り入れ、ライヴ 以外にも映画・舞台のサウンドトラックやギャラリーの空間デザイン等多岐に渡る活動をしている。\n DUBSTEP,URBANSOUL,4 つ打ち等あらゆるビートを駆使しながら畳み掛ける彼のLIVEは必見。”今”の音を刻む数少ないアーティストの1人。  DJ, VJ, producer in his young twenties—his music visions first appear in elementary school making cell phone ringtones like any nerdy kid, and then moving on to a laptop.\n\n        <a href=\"http://www.last.fm/music/Seiho\">Read more about Seiho on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Double Bed",
       "I Feel RAVE",
@@ -4788,7 +4788,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "ef8c4ade-2712-408a-bf49-aeeb59296f78",
     "image": "http://userserve-ak.last.fm/serve/126/23302189.png",
-    "info": "\n                    奥田 民生（おくだ たみお、1965年5月12日 - ）は、日本のミュージシャン。作詞・作曲家、ボーカリスト、ギタリスト、音楽プロデューサーとして活動している。広島市東区尾長出身。血液型B型。父は元広島市議会議員の奥田幹二（おくだ　かんじ、1941年6月20日 - ）。  1987年、ロックバンド「ユニコーン」のボーカリストとしてデビュー。「大迷惑」「すばらしい日々」など数々のヒット曲を世に送り出し、バンドブームの寵児ともいわれた。1993年に解散。その後約1年間の充電期間を経て、1994年からソロ活動を開始。以降、ソロ活動の傍ら、女性デュオ「Puffy」のプロデュースや、井上陽水とのユニット「井上陽水奥田民生」をはじめとした様々なミュージシャンとのコラボレーションなど、多方面で活動している。代表曲は「愛のために」、「さすらい」、「マシマロ」など。  様々なジャンルの音楽が台頭した現在でも、なおロックンロールにこだわり続けており「ROCKIN'ON...\n\n        <a href=\"http://www.last.fm/music/%E5%A5%A5%E7%94%B0%E6%B0%91%E7%94%9F\">Read more about 奥田民生 on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                奥田 民生（おくだ たみお、1965年5月12日 - ）は、日本のミュージシャン。作詞・作曲家、ボーカリスト、ギタリスト、音楽プロデューサーとして活動している。広島市東区尾長出身。血液型B型。父は元広島市議会議員の奥田幹二（おくだ　かんじ、1941年6月20日 - ）。  1987年、ロックバンド「ユニコーン」のボーカリストとしてデビュー。「大迷惑」「すばらしい日々」など数々のヒット曲を世に送り出し、バンドブームの寵児ともいわれた。1993年に解散。その後約1年間の充電期間を経て、1994年からソロ活動を開始。以降、ソロ活動の傍ら、女性デュオ「Puffy」のプロデュースや、井上陽水とのユニット「井上陽水奥田民生」をはじめとした様々なミュージシャンとのコラボレーションなど、多方面で活動している。代表曲は「愛のために」、「さすらい」、「マシマロ」など。  様々なジャンルの音楽が台頭した現在でも、なおロックンロールにこだわり続けており「ROCKIN'ON...\n\n        <a href=\"http://www.last.fm/music/%E5%A5%A5%E7%94%B0%E6%B0%91%E7%94%9F\">Read more about 奥田民生 on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "さすらい",
       "イージュー★ライダー",
@@ -4940,7 +4940,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "af211ac3-06f6-48ce-b9c8-e8a53b025c51",
     "image": "http://userserve-ak.last.fm/serve/126/68978804.png",
-    "info": "\n                    ハナレグミは、SUPER BUTTER DOGのボーカル永積タカシ（ながづみ たかし）のソロユニットである。名前の由来は自身が離れ目であることから。専門学校東京ミュージック&amp;メディアアーツ尚美卒業。現在までにシングル3枚、アルバム4枚をリリースしている。東芝EMICapitol Music所属。\n 永積は現在ohanaのメンバーとしても活動中。また東京スカパラダイスオーケストラのゲストボーカルを務めるなど、他のアーティストとのコラボレーションも数多い。\n\n        <a href=\"http://www.last.fm/music/%E3%83%8F%E3%83%8A%E3%83%AC%E3%82%B0%E3%83%9F\">ハナレグミ on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ハナレグミは、SUPER BUTTER DOGのボーカル永積タカシ（ながづみ たかし）のソロユニットである。名前の由来は自身が離れ目であることから。専門学校東京ミュージック&amp;メディアアーツ尚美卒業。現在までにシングル3枚、アルバム4枚をリリースしている。東芝EMICapitol Music所属。\n 永積は現在ohanaのメンバーとしても活動中。また東京スカパラダイスオーケストラのゲストボーカルを務めるなど、他のアーティストとのコラボレーションも数多い。\n\n        <a href=\"http://www.last.fm/music/%E3%83%8F%E3%83%8A%E3%83%AC%E3%82%B0%E3%83%9F\">ハナレグミ on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Flavor Of Life",
       "家族の風景",
@@ -5153,7 +5153,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "2c6cd964-9c7c-4d3d-b917-89813646d4eb",
     "image": "http://userserve-ak.last.fm/serve/126/27390163.jpg",
-    "info": "\n                    ①キャラヴァン(Caravan)は、1968年にデビューしたイギリスのロックバンド。キャラバンと表記されることもある。プログレッシブ・ロックの中でも、ソフト・マシーンなどと共に、いわゆるカンタベリー系を代表するグループとして活躍した。  ロックとジャズの融合を目指し、様々な手法による作品を世に送り出してきた。数多のプログレッシブ・ロックバンドの中で、キャメルと並んで叙情派の音楽で人気を博した。セールス面では大きな成功を得ることはできなかったが、実力を兼ね備えたサウンドを武器に70年代を中心に活躍した。  70年代後半からは、他のプログレ勢と同様にポップなサウンドにシフト・チェンジしていった。そして、1982年に解散する。  しかし、1990年になって再結成。数多くのオリジナル・アルバムやライブ・アルバムを発表している。    アルバム・ディスコグラフィー\n 1968　Caravan　（邦題：キャラヴァン・ファースト・アルバム） \n 1970　If I could do it all over again , I'd do it all over you　（邦題：キャラバン登場） \n 1971　In the land of grey and pink　（邦題：グレイとピンクの地） \n \n\n        <a href=\"http://www.last.fm/music/Caravan\">Read more about Caravan on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ①キャラヴァン(Caravan)は、1968年にデビューしたイギリスのロックバンド。キャラバンと表記されることもある。プログレッシブ・ロックの中でも、ソフト・マシーンなどと共に、いわゆるカンタベリー系を代表するグループとして活躍した。  ロックとジャズの融合を目指し、様々な手法による作品を世に送り出してきた。数多のプログレッシブ・ロックバンドの中で、キャメルと並んで叙情派の音楽で人気を博した。セールス面では大きな成功を得ることはできなかったが、実力を兼ね備えたサウンドを武器に70年代を中心に活躍した。  70年代後半からは、他のプログレ勢と同様にポップなサウンドにシフト・チェンジしていった。そして、1982年に解散する。  しかし、1990年になって再結成。数多くのオリジナル・アルバムやライブ・アルバムを発表している。    アルバム・ディスコグラフィー\n 1968　Caravan　（邦題：キャラヴァン・ファースト・アルバム） \n 1970　If I could do it all over again , I'd do it all over you　（邦題：キャラバン登場） \n 1971　In the land of grey and pink　（邦題：グレイとピンクの地） \n \n\n        <a href=\"http://www.last.fm/music/Caravan\">Read more about Caravan on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Golf Girl",
       "Winter Wine",
@@ -5276,7 +5276,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "a9508723-98f0-4a59-b3b5-b7841e9f9151",
     "image": "http://userserve-ak.last.fm/serve/126/13592559.jpg",
-    "info": "\n                    佐藤良成と佐野遊穂による男女デュオ。\n どこか懐かしく切ない楽曲、伸びやかで透明、おおらかで素朴、哀愁を帯びつつも爽快な歌声などが身上。  佐藤良成（さとうりょうせい）：　歌、ギター、フィドル、マンドリン、作詞、作曲。\n 佐野遊穂（さのゆうほ）：　歌、ハーモニカなど。  1998年 結成。\n 2001年 アルバム『for hundreds of children』でデビュー。\n 2005年 シングル『おなじ話』が各地のFM局でパワープレイとなったのをきっかけに、東京を拠点としていた活動を全国に広げ、年間100本近いライブを行う。\n 2006年 サマーソニック出演。年末にはグラミー賞アーティスト、ティム・オブライエンと共演。\n 2007年 フジロックフェスティバル出演。7月、舞台『砂利』（坂東三津五郎主演、本谷有希子作）劇中音楽を担当。9月、映画『包帯クラブ』（堤幸彦監督）劇中音楽を担当。  （以上すべて<a href=\"http://www.humberthumbert.net/\" rel=\"nofollow\">公式ウェブサイト</a>より。一部編集・省略）  2008年 新感覚ドラマ「2クール」（小林聡美、もたいまさこ / 日本テレビ）エンディング曲に、「罪の味」を書き下ろし。\n\n        <a href=\"http://www.last.fm/music/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88+%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88\">Read more about ハンバート ハンバート on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                佐藤良成と佐野遊穂による男女デュオ。\n どこか懐かしく切ない楽曲、伸びやかで透明、おおらかで素朴、哀愁を帯びつつも爽快な歌声などが身上。  佐藤良成（さとうりょうせい）：　歌、ギター、フィドル、マンドリン、作詞、作曲。\n 佐野遊穂（さのゆうほ）：　歌、ハーモニカなど。  1998年 結成。\n 2001年 アルバム『for hundreds of children』でデビュー。\n 2005年 シングル『おなじ話』が各地のFM局でパワープレイとなったのをきっかけに、東京を拠点としていた活動を全国に広げ、年間100本近いライブを行う。\n 2006年 サマーソニック出演。年末にはグラミー賞アーティスト、ティム・オブライエンと共演。\n 2007年 フジロックフェスティバル出演。7月、舞台『砂利』（坂東三津五郎主演、本谷有希子作）劇中音楽を担当。9月、映画『包帯クラブ』（堤幸彦監督）劇中音楽を担当。  （以上すべて<a href=\"http://www.humberthumbert.net/\" rel=\"nofollow\">公式ウェブサイト</a>より。一部編集・省略）  2008年 新感覚ドラマ「2クール」（小林聡美、もたいまさこ / 日本テレビ）エンディング曲に、「罪の味」を書き下ろし。\n\n        <a href=\"http://www.last.fm/music/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88+%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88\">Read more about ハンバート ハンバート on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "おなじ話",
       "日が落ちるまで",
@@ -5414,7 +5414,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "",
     "image": "http://userserve-ak.last.fm/serve/126/71803210.png",
-    "info": "\n                    ソニック (ChthoniC、閃靈) は、台湾のシンフォニック・ブラックメタル・バンド。  1995年に台湾・台北にて結成。\n 1999年に1stアルバム『Where the Ancestors' Souls Gathered（祖靈之流）』を発表。シンセサイザーとギターのヘヴィなリフが織り成すドラマティックなメタル・サウンドを聴かせ、瞬く間に台湾を代表するメタル・バンドに成長。世界各国のロック・フェスに出演するようになる。\n 2007年に『Seediq Bale（賽德克巴萊）』で日本デビュー。2009年には世界デビュー盤となる『Mirror of Retribution（十殿）』を発表した。二胡の導入や男女ヴォーカルの掛け合いなど引き出しも多彩で、台湾の歴史の暗部を歌詞にのせるなど、オリジナリティに富んだブラック・メタルを追求している  現在のメンバー\n     * Freddy Lim (Freddy, Left Face of Maradou) - ヴォーカル、二胡\n     * Jesse Liu (Jesse, the Infernal) - ギター\n     * Doris Yeh (Doris, Thunder Tears) - ベース\n \n\n        <a href=\"http://www.last.fm/music/Chthonic\">Read more about Chthonic on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                ソニック (ChthoniC、閃靈) は、台湾のシンフォニック・ブラックメタル・バンド。  1995年に台湾・台北にて結成。\n 1999年に1stアルバム『Where the Ancestors' Souls Gathered（祖靈之流）』を発表。シンセサイザーとギターのヘヴィなリフが織り成すドラマティックなメタル・サウンドを聴かせ、瞬く間に台湾を代表するメタル・バンドに成長。世界各国のロック・フェスに出演するようになる。\n 2007年に『Seediq Bale（賽德克巴萊）』で日本デビュー。2009年には世界デビュー盤となる『Mirror of Retribution（十殿）』を発表した。二胡の導入や男女ヴォーカルの掛け合いなど引き出しも多彩で、台湾の歴史の暗部を歌詞にのせるなど、オリジナリティに富んだブラック・メタルを追求している  現在のメンバー\n     * Freddy Lim (Freddy, Left Face of Maradou) - ヴォーカル、二胡\n     * Jesse Liu (Jesse, the Infernal) - ギター\n     * Doris Yeh (Doris, Thunder Tears) - ベース\n \n\n        <a href=\"http://www.last.fm/music/Chthonic\">Read more about Chthonic on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "Takao",
       "Supreme Pain For The Tyrant",
@@ -5570,7 +5570,7 @@ Artist.find({}).remove(function() {
     ],
     "mbid": "2d5c081c-5b3f-42d2-83df-21ae3ff1eb09",
     "image": "http://userserve-ak.last.fm/serve/126/29824351.jpg",
-    "info": "\n                    辻村豪文と辻村友晴による兄弟ユニット。\n カセットMTR、リズムボックス、サンプラー、ミュージカル ソウ等を使用しつつ、浮遊感あふれる独自のファンタジックな音楽を展開中。\n 1999年、弟友晴の大学受験失敗の勢いに乗って、辻村家の応接間にて結成。\n 2001年6月にアルバム『夢』にてメジャーデビュー。\n 同年、夏にフジロックフェスティバル、フィールドオブヘブンに初出演。ほぼ一年半のペースで、2ndアルバム『近未来』、3rdアルバム『窓に地球』を発表。\n 2005年4月、村上隆氏によるアートイベント『リトル・ボーイ』に参加。ＮＹで初のライブを行い好評を博す。同、5月4thアルバム『旅』をリリース。各方面からなかなか高い支持を得る。\n 現在、精力的にライブを行いつつ、次作に向けて妄想中。\n 2005年11月25日発売のアニメーションオムニバス作品『VISIONS OF FRANK』に音楽担当として参加。\n 2006年2月、キセル初のライブDVD『すきまミュージック 番外編』発売。\n\n        <a href=\"http://www.last.fm/music/%E3%82%AD%E3%82%BB%E3%83%AB\">キセル on Last.fm</a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+    "info": "\n                辻村豪文と辻村友晴による兄弟ユニット。\n カセットMTR、リズムボックス、サンプラー、ミュージカル ソウ等を使用しつつ、浮遊感あふれる独自のファンタジックな音楽を展開中。\n 1999年、弟友晴の大学受験失敗の勢いに乗って、辻村家の応接間にて結成。\n 2001年6月にアルバム『夢』にてメジャーデビュー。\n 同年、夏にフジロックフェスティバル、フィールドオブヘブンに初出演。ほぼ一年半のペースで、2ndアルバム『近未来』、3rdアルバム『窓に地球』を発表。\n 2005年4月、村上隆氏によるアートイベント『リトル・ボーイ』に参加。ＮＹで初のライブを行い好評を博す。同、5月4thアルバム『旅』をリリース。各方面からなかなか高い支持を得る。\n 現在、精力的にライブを行いつつ、次作に向けて妄想中。\n 2005年11月25日発売のアニメーションオムニバス作品『VISIONS OF FRANK』に音楽担当として参加。\n 2006年2月、キセル初のライブDVD『すきまミュージック 番外編』発売。\n\n        <a href=\"http://www.last.fm/music/%E3%82%AD%E3%82%BB%E3%83%AB\">キセル on Last.fm</a>.\n    \n    ",
     "top_tracks": [
       "時をはなれて",
       "夏の子供",

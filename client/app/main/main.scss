@@ -28,3 +28,125 @@
     margin-top: 70px;
     border-top: 1px solid #E5E5E5;
 }
+
+.card-panel {
+  height: 100px;
+}
+
+.card-inner {
+  margin-bottom: 0px;
+  height: 60px;
+  .card-inner-img{
+    height: 38px;
+    width: 38px;
+    img {
+      height: 38px;
+      width: 38px;
+    }
+  }
+}
+
+.black-text {
+  width: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.list-img{
+  margin-top: 11px;
+  margin-bottom: 21px;
+}
+
+.list-name{
+  display: block;
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+
+nav{
+  text-align: center;
+  .brand-logo{
+    position: absolute;
+    left: 60px;
+  }
+  .nav-play{
+    top: 0px;
+    width: 60px;
+    height: 60px;
+    i {
+      font-size: 4rem;
+    }
+  }
+  .nav-info{
+    position: absolute;
+    top: 0px;
+    width: 60px;
+    height: 60px;
+    right: 60px;
+    i {
+      font-size: 3rem;
+    }
+  }
+  .nav-list{
+    position: absolute;
+    top: 0px;
+    width: 60px;
+    height: 60px;
+    right: 10px;
+    i {
+      font-size: 3rem;
+    }
+  }
+  .nav-playing{
+    height: 64px;
+    position: absolute;
+    display: flex;
+    width: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    img,a,span{
+
+      height: inherit;
+      margin-left: 10px;
+      font-size: 1rem;
+    }
+    img{
+      margin-top: auto;
+      margin-bottom: auto;
+      height: 50px;
+      width: 50px;
+    }
+  }
+}
+
+.button-date-fillter{
+  margin-top: 10px;
+}
+.btn-large{
+  border-radius: 0px;
+}
+
+.modal{
+  .modal-content{
+    .detail-img{
+      max-width: 100px;
+      max-height: 100px;
+    }
+    .detail-name{
+      margin-top: 20px;
+    }
+    .detail-add{
+      padding-top: 18px;
+    }
+    .collection{
+      .collection-item{
+        .remove-button{
+          top: 21px;
+        }
+      }
+    }
+  }
+}
